@@ -34,8 +34,7 @@ What is the date shown in `formatted_timestamp` for the first record?
 Answer: 2022-12-30
 
 #### End goal:
-*Add an image of the final visualization here.*
-
+<img width="824" alt="ex-1-screenshot" src="https://github.com/anaclmartins-data/sme-bi-course-application/assets/59775621/bcfcb21c-1c68-4ad5-92d0-9fd971a3f054">
 
 ## 2nd VM Exercise: Content Engagement of a Streaming Service
 
@@ -64,4 +63,4 @@ What is the name of the content with the highest rating and lowest duration?
 Answer: *justo*
 
 #### End goal:
-*Add an image of the final visualization here.*
+<img width="650" alt="ex-2-screenshot" src="https://github.com/anaclmartins-data/sme-bi-course-application/assets/59775621/db8fda3f-5d3e-4bd8-af17-c37ead0e77cb">
