@@ -40,7 +40,7 @@ Answer: 2022-12-30
 ## 2nd VM Exercise: Content Engagement of a Streaming Service
 
 #### Dataset
-*ex-2-streaming-service-engagement.csv*
+*ex-2-streaming-service-engagement.xlsx*
 
 #### Files
 
