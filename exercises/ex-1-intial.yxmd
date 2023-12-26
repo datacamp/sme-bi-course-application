@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">..\datasets\ex-1-financial-transactions.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ex-1-financial-transactions.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="transaction_id" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_date" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="account_holder" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="account_receiver" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_amount" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_currency" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_type" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_status" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="card_type" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+            <Field name="transaction_description" size="254" source="File: \\Mac\Home\Documents\github\sme-bi-course-application\datasets\ex-1-financial-transactions.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="54" width="384" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Exercise 1 - Financial Transactions</Text>
+          <Font name="Arial" size="14.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>ex-1-intial</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="78d4209d-487b-4ee6-9ccd-9fa4e121d8fd" />
+      <Telemetry>
+        <PreviousWorkflowId value="b81bf450-cc9c-499b-b61e-97e5032648a6" />
+        <OriginWorkflowId value="b81bf450-cc9c-499b-b61e-97e5032648a6" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

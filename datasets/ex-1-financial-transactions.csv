@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,account_holder,account_receiver,transaction_amount,transaction_currency,transaction_type,transaction_status,card_type,transaction_description
+8,2022-03-05,8,8,,EUR,PURCHASE,completed,MASTERCARD,curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+1,2022-09-25,1,1,8325.95,BYR,WITHDRAWAL,Failed,AMEX,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+2,2022-02-23,2,2,3826.42,USD,DEPOSIT,Pending,VISA,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut
+3,2022-03-19,3,3,8288.22,EUR,PURCHASE,failed,AMEX,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet
+4,2022-08-29,4,4,7796.28,THB,PURCHASE,Completed,AMEX,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat
+5,2022-12-25,5,5,9722.87,PHP,PURCHASE,failed,AMEX,rutrum nulla nunc purus phasellus in felis donec semper sapien a
+6,2022-08-06,6,6,2158.54,EUR,PURCHASE,Pending,VISA,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac
+7,2022-08-06,7,7,8337.49,IDR,PURCHASE,completed,MASTERCARD,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras
+9,2022-05-06,9,9,3452.21,BRL,WITHDRAWAL,failed,AMEX,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+10,2022-01-20,10,10,1265.87,PHP,WITHDRAWAL,completed,MASTERCARD,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus
+11,2022-11-29,11,11,5810.94,IDR,WITHDRAWAL,failed,MASTERCARD,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi
+12,2022-10-28,12,12,1984.23,VND,WITHDRAWAL,Pending,MASTERCARD,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat
+13,2022-04-28,13,13,5481.36,USD,WITHDRAWAL,Completed,VISA,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+14,2022-10-11,14,14,3589.73,EUR,PURCHASE,Failed,VISA,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+15,2022-05-15,15,15,7192.13,UAH,PURCHASE,completed,MASTERCARD,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+16,2022-09-26,16,16,5680.63,COP,DEPOSIT,completed,AMEX,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+17,2022-03-21,17,17,7081.86,UAH,WITHDRAWAL,Pending,AMEX,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam
+18,2022-04-19,18,18,7957.91,CZK,WITHDRAWAL,failed,VISA,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit
+19,2022-12-14,19,19,3524.82,COP,DEPOSIT,pending,MASTERCARD,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+20,2022-10-03,20,20,4957.96,VND,DEPOSIT,pending,AMEX,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+21,2022-06-27,21,21,4793.74,EUR,WITHDRAWAL,completed,VISA,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien
+22,2022-04-09,22,22,2779.88,DOP,PURCHASE,failed,AMEX,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+23,2022-03-05,23,23,5014.4,EUR,PURCHASE,pending,AMEX,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla
+24,2022-01-06,24,24,7202.95,PLN,PURCHASE,Completed,VISA,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc
+25,2022-04-08,25,25,1772.76,SLL,PURCHASE,Failed,MASTERCARD,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+26,2022-05-19,26,26,4254.39,CNY,WITHDRAWAL,Failed,MASTERCARD,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent
+27,2022-06-23,27,27,8490.41,EUR,DEPOSIT,completed,VISA,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+28,2022-11-27,28,28,5002.08,NGN,WITHDRAWAL,Pending,VISA,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue
+29,2022-03-06,29,29,4770.79,GTQ,DEPOSIT,Pending,AMEX,blandit nam nulla integer pede justo lacinia eget tincidunt eget
+30,2022-03-01,30,30,3816.82,IDR,PURCHASE,failed,VISA,sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+31,2022-01-18,31,31,5252.46,PHP,DEPOSIT,Failed,VISA,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+32,2022-02-05,32,32,1555.85,CDF,PURCHASE,Completed,MASTERCARD,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel
+33,2022-07-17,33,33,571.55,IDR,DEPOSIT,completed,VISA,ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+34,2022-05-23,34,34,9942.27,CNY,WITHDRAWAL,failed,AMEX,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+35,2022-07-14,35,35,4121.18,VND,PURCHASE,Completed,AMEX,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse
+36,2022-06-30,36,36,2885.58,NGN,WITHDRAWAL,Failed,VISA,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu
+37,2022-10-06,37,37,6601.28,ZAR,PURCHASE,Completed,AMEX,duis bibendum morbi non quam nec dui luctus rutrum nulla
+38,2022-07-09,38,38,,PHP,PURCHASE,Pending,MASTERCARD,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+39,2022-05-06,39,39,9619.49,UAH,DEPOSIT,Completed,AMEX,proin eu mi nulla ac enim in tempor turpis nec
+40,2022-03-17,40,40,1699.73,PGK,PURCHASE,pending,VISA,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+41,2022-08-26,41,41,2965.34,EUR,DEPOSIT,completed,MASTERCARD,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie
+42,2022-12-28,42,42,9239.29,RUB,PURCHASE,pending,MASTERCARD,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus
+43,2022-07-06,43,43,7129.02,EUR,PURCHASE,pending,AMEX,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+44,2022-05-15,44,44,7614.86,AMD,DEPOSIT,Pending,VISA,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+45,2022-02-04,45,45,3170.91,CNY,DEPOSIT,Completed,VISA,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+46,2022-11-03,46,46,7987.95,USD,PURCHASE,completed,VISA,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula
+47,2022-10-04,47,47,9712.32,UZS,PURCHASE,failed,VISA,ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit
+48,2022-11-25,48,48,6375.48,GTQ,WITHDRAWAL,failed,VISA,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget
+49,2022-02-15,49,49,,IDR,WITHDRAWAL,Failed,MASTERCARD,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+50,2022-10-27,50,50,8611.03,CNY,WITHDRAWAL,completed,AMEX,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+51,2022-05-20,51,51,5467.84,SDG,DEPOSIT,failed,VISA,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices
+52,2022-01-10,52,52,9704.89,JMD,PURCHASE,completed,AMEX,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+53,2022-09-07,53,53,9282.88,RUB,WITHDRAWAL,Pending,AMEX,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero
+54,2022-12-18,54,54,,JPY,DEPOSIT,failed,MASTERCARD,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id
+55,2022-12-12,55,55,8868.92,IRR,PURCHASE,Failed,MASTERCARD,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus
+56,2022-11-13,56,56,4116.92,CNY,PURCHASE,completed,VISA,eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam
+57,2022-11-12,57,57,6670.13,CNY,PURCHASE,Pending,VISA,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+58,2022-05-14,58,58,8044.18,HNL,WITHDRAWAL,Failed,VISA,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis
+59,2022-12-29,59,59,8474.82,CNY,PURCHASE,Completed,VISA,eleifend quam a odio in hac habitasse platea dictumst maecenas ut
+60,2022-09-28,60,60,,CNY,WITHDRAWAL,Completed,AMEX,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi
+61,2022-03-28,61,61,1477.01,IRR,WITHDRAWAL,Failed,VISA,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum
+62,2022-11-23,62,62,,ILS,PURCHASE,Completed,VISA,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor
+63,2022-01-04,63,63,4555.9,BRL,PURCHASE,Completed,VISA,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis
+64,2022-12-11,64,64,5562.84,BRL,PURCHASE,Completed,VISA,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus
+65,2022-03-01,65,65,2784.1,USD,WITHDRAWAL,Failed,AMEX,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in
+66,2022-02-24,66,66,9001.54,CZK,PURCHASE,failed,AMEX,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit
+67,2022-02-20,67,67,5408.76,PHP,WITHDRAWAL,Pending,VISA,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer
+68,2022-05-04,68,68,3663.85,EUR,WITHDRAWAL,Pending,AMEX,integer non velit donec diam neque vestibulum eget vulputate ut ultrices
+69,2022-05-14,69,69,3773.14,CNY,DEPOSIT,completed,VISA,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+70,2022-07-30,70,70,4452.52,USD,DEPOSIT,Completed,AMEX,consequat lectus in est risus auctor sed tristique in tempus sit amet sem
+71,2022-03-11,71,71,5745.99,BRL,WITHDRAWAL,Failed,VISA,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse
+72,2022-05-06,72,72,9775.83,EUR,DEPOSIT,completed,MASTERCARD,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante
+73,2022-10-25,73,73,9157.32,PEN,WITHDRAWAL,Pending,AMEX,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui
+74,2022-07-19,74,74,6368.86,PKR,WITHDRAWAL,failed,MASTERCARD,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+75,2022-01-15,75,75,9120.78,SEK,PURCHASE,failed,VISA,metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula
+76,2022-07-15,76,76,9846.24,EUR,WITHDRAWAL,Pending,AMEX,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+77,2022-06-05,77,77,9707.59,RUB,PURCHASE,Pending,VISA,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh
+78,2022-12-18,78,78,,CNY,DEPOSIT,failed,VISA,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac
+79,2022-01-01,79,79,6859.02,PHP,DEPOSIT,pending,AMEX,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+80,2022-08-12,80,80,9725.64,NGN,DEPOSIT,Failed,MASTERCARD,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+81,2022-10-11,81,81,5601.04,PHP,DEPOSIT,failed,VISA,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit
+82,2022-08-05,82,82,2565.16,XCD,PURCHASE,Failed,MASTERCARD,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non
+83,2022-11-23,83,83,8346.99,NOK,WITHDRAWAL,pending,MASTERCARD,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit
+84,2022-03-18,84,84,9868.74,CZK,WITHDRAWAL,Failed,VISA,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+85,2022-04-05,85,85,8931.06,CNY,WITHDRAWAL,completed,MASTERCARD,cras in purus eu magna vulputate luctus cum sociis natoque
+86,2022-04-04,86,86,9063.1,CAD,PURCHASE,Pending,MASTERCARD,leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+87,2022-09-17,87,87,4362.77,BWP,PURCHASE,Pending,AMEX,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+88,2022-03-20,88,88,3592.0,EUR,PURCHASE,pending,VISA,ligula nec sem duis aliquam convallis nunc proin at turpis a pede
+89,2022-07-01,89,89,5388.89,ZAR,PURCHASE,pending,MASTERCARD,curabitur in libero ut massa volutpat convallis morbi odio odio
+90,2022-10-05,90,90,4444.86,USD,PURCHASE,Pending,MASTERCARD,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+91,2022-11-19,91,91,3738.97,BRL,WITHDRAWAL,Completed,VISA,interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus
+92,2022-10-05,92,92,5250.11,JPY,PURCHASE,Completed,MASTERCARD,ipsum integer a nibh in quis justo maecenas rhoncus aliquam
+93,2022-10-03,93,93,3854.67,PHP,DEPOSIT,Pending,VISA,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+94,2022-05-07,94,94,7322.11,RUB,DEPOSIT,Failed,AMEX,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla
+95,2022-05-01,95,95,475.96,EUR,PURCHASE,Failed,VISA,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui
+96,2022-10-11,96,96,2499.95,EGP,PURCHASE,Pending,MASTERCARD,orci luctus et ultrices posuere cubilia curae donec pharetra magna
+97,2022-07-10,97,97,9242.52,CNY,DEPOSIT,Completed,MASTERCARD,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac
+98,2022-03-05,98,98,459.07,IDR,DEPOSIT,pending,AMEX,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo
+99,2022-02-09,99,99,3140.1,CNY,PURCHASE,Pending,AMEX,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet
+100,2022-01-30,100,100,1879.27,HRK,PURCHASE,Failed,AMEX,metus aenean fermentum donec ut mauris eget massa tempor convallis
+101,2022-09-26,101,101,3603.1,YER,WITHDRAWAL,failed,VISA,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet
+102,2022-10-12,102,102,7854.45,CNY,PURCHASE,failed,VISA,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci
+103,2022-03-30,103,103,5634.12,IDR,DEPOSIT,failed,VISA,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor
+104,2022-07-17,104,104,1966.86,CNY,DEPOSIT,Pending,AMEX,at turpis a pede posuere nonummy integer non velit donec diam
+105,2022-06-20,105,105,1950.57,RUB,PURCHASE,completed,MASTERCARD,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula
+106,2022-11-17,106,106,1309.11,PHP,WITHDRAWAL,pending,AMEX,orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt
+107,2022-09-30,107,107,6139.55,MYR,WITHDRAWAL,Failed,AMEX,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+108,2022-07-16,108,108,,EUR,DEPOSIT,failed,AMEX,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur
+109,2022-11-18,109,109,7870.0,BOB,DEPOSIT,pending,AMEX,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit
+110,2022-08-21,110,110,3657.74,MDL,WITHDRAWAL,failed,VISA,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor
+111,2022-08-05,111,111,9344.6,PHP,DEPOSIT,Completed,MASTERCARD,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+112,2022-12-29,112,112,5176.64,BRL,DEPOSIT,Failed,VISA,vehicula consequat morbi a ipsum integer a nibh in quis justo
+113,2022-03-21,113,113,364.06,IDR,PURCHASE,completed,AMEX,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis
+114,2022-12-28,114,114,8407.57,IDR,WITHDRAWAL,completed,MASTERCARD,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci
+115,2022-12-26,115,115,2792.36,EUR,WITHDRAWAL,pending,AMEX,non mauris morbi non lectus aliquam sit amet diam in
+116,2022-07-19,116,116,5442.17,CNY,WITHDRAWAL,Pending,AMEX,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus
+117,2022-06-28,117,117,9016.67,CNY,DEPOSIT,failed,AMEX,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet
+118,2022-09-13,118,118,,RUB,DEPOSIT,failed,AMEX,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede
+119,2022-07-01,119,119,5874.06,CNY,WITHDRAWAL,Pending,AMEX,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu
+120,2022-12-29,120,120,151.93,EUR,PURCHASE,completed,MASTERCARD,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id
+121,2022-02-13,121,121,9567.27,COP,PURCHASE,Failed,AMEX,amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+122,2022-02-13,122,122,7027.85,GTQ,DEPOSIT,completed,AMEX,accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a
+123,2022-06-07,123,123,,IDR,WITHDRAWAL,failed,VISA,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+124,2022-06-07,124,124,4686.35,CNY,PURCHASE,failed,MASTERCARD,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede
+125,2022-11-07,125,125,2034.0,BRL,WITHDRAWAL,completed,AMEX,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet
+126,2022-01-22,126,126,4354.62,CNY,WITHDRAWAL,pending,AMEX,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget
+127,2022-07-22,127,127,3488.42,CNY,PURCHASE,pending,MASTERCARD,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+128,2022-10-15,128,128,3846.42,CNY,WITHDRAWAL,failed,AMEX,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien
+129,2022-10-06,129,129,4898.01,DOP,DEPOSIT,failed,VISA,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+130,2022-05-18,130,130,8268.96,CNY,PURCHASE,Completed,MASTERCARD,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi
+131,2022-08-31,131,131,2490.12,UAH,DEPOSIT,pending,MASTERCARD,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+132,2022-07-31,132,132,5241.28,MKD,WITHDRAWAL,Failed,VISA,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+133,2022-04-07,133,133,6727.2,CNY,DEPOSIT,failed,MASTERCARD,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes
+134,2022-09-23,134,134,,CNY,WITHDRAWAL,failed,AMEX,eu sapien cursus vestibulum proin eu mi nulla ac enim
+135,2022-03-05,135,135,7514.92,CNY,WITHDRAWAL,pending,MASTERCARD,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis
+136,2022-01-13,136,136,9909.53,PHP,WITHDRAWAL,failed,VISA,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent
+137,2022-01-21,137,137,4537.54,ILS,WITHDRAWAL,Failed,MASTERCARD,etiam justo etiam pretium iaculis justo in hac habitasse platea
+138,2022-01-13,138,138,6983.42,IDR,DEPOSIT,failed,VISA,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit
+139,2022-07-25,139,139,8141.11,BRL,DEPOSIT,completed,AMEX,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum
+140,2022-06-20,140,140,3355.27,EUR,PURCHASE,Pending,AMEX,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+141,2022-09-02,141,141,7841.18,SEK,DEPOSIT,completed,AMEX,ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet
+142,2022-07-19,142,142,1119.77,IDR,DEPOSIT,Pending,MASTERCARD,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi
+143,2022-09-29,143,143,727.18,CNY,PURCHASE,Pending,AMEX,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit
+144,2022-04-08,144,144,7553.24,CNY,DEPOSIT,failed,MASTERCARD,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+145,2022-08-15,145,145,1232.61,CNY,PURCHASE,failed,MASTERCARD,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi
+146,2022-11-20,146,146,8695.46,DOP,DEPOSIT,Pending,AMEX,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+147,2022-02-22,147,147,999.55,MAD,DEPOSIT,pending,VISA,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam
+148,2022-11-24,148,148,5473.68,BRL,DEPOSIT,completed,VISA,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed
+149,2022-09-03,149,149,,IDR,PURCHASE,Failed,AMEX,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue
+150,2022-05-19,150,150,9321.02,EUR,WITHDRAWAL,completed,VISA,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna
+151,2022-02-08,151,151,7199.45,SYP,PURCHASE,Failed,AMEX,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at
+152,2022-07-18,152,152,5960.79,RUB,WITHDRAWAL,completed,MASTERCARD,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+153,2022-01-09,153,153,2492.89,EUR,PURCHASE,completed,MASTERCARD,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus
+154,2022-04-24,154,154,4451.95,IDR,WITHDRAWAL,Completed,MASTERCARD,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus
+155,2022-11-21,155,155,160.38,MMK,PURCHASE,Pending,AMEX,at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin
+156,2022-04-12,156,156,8143.25,COP,PURCHASE,failed,AMEX,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+157,2022-07-31,157,157,3442.14,BGN,PURCHASE,Failed,VISA,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla
+158,2022-04-08,158,158,7170.99,IDR,DEPOSIT,Pending,MASTERCARD,amet cursus id turpis integer aliquet massa id lobortis convallis tortor
+159,2022-08-19,159,159,4102.04,CNY,WITHDRAWAL,pending,AMEX,pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+160,2022-06-25,160,160,2210.4,MKD,DEPOSIT,Pending,VISA,est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi
+161,2022-12-23,161,161,104.58,COP,WITHDRAWAL,pending,MASTERCARD,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy
+162,2022-12-10,162,162,3368.49,CNY,WITHDRAWAL,Completed,MASTERCARD,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum
+163,2022-01-20,163,163,5467.75,PLN,PURCHASE,completed,AMEX,eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+164,2022-07-20,164,164,,CNY,DEPOSIT,pending,VISA,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue
+165,2022-09-19,165,165,2020.64,CNY,DEPOSIT,completed,VISA,in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+166,2022-12-06,166,166,,GEL,WITHDRAWAL,Completed,VISA,est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus
+167,2022-04-04,167,167,8638.18,TZS,DEPOSIT,failed,AMEX,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat
+168,2022-07-08,168,168,2763.64,IDR,WITHDRAWAL,failed,AMEX,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui
+169,2022-03-10,169,169,9137.52,GTQ,WITHDRAWAL,failed,VISA,sapien a libero nam dui proin leo odio porttitor id consequat in consequat
+170,2022-05-15,170,170,4517.7,HTG,WITHDRAWAL,Pending,AMEX,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui
+171,2022-04-28,171,171,8684.72,THB,PURCHASE,pending,AMEX,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur
+172,2022-03-31,172,172,6228.23,YER,DEPOSIT,Completed,MASTERCARD,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+173,2022-02-03,173,173,5229.21,UZS,WITHDRAWAL,Completed,VISA,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed
+174,2022-09-07,174,174,606.98,IDR,DEPOSIT,completed,VISA,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in
+175,2022-05-01,175,175,,THB,PURCHASE,completed,VISA,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+176,2022-08-28,176,176,8950.36,EUR,DEPOSIT,failed,MASTERCARD,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit
+177,2022-12-29,177,177,7804.99,RUB,WITHDRAWAL,pending,VISA,pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget
+178,2022-02-10,178,178,569.89,IDR,DEPOSIT,completed,VISA,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+179,2022-12-10,179,179,7159.29,CNY,DEPOSIT,pending,VISA,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+180,2022-10-24,180,180,3880.78,BOB,WITHDRAWAL,completed,VISA,consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+181,2022-06-20,181,181,,NZD,DEPOSIT,completed,AMEX,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor
+182,2022-03-06,182,182,6175.94,EUR,PURCHASE,pending,AMEX,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+183,2022-03-01,183,183,8393.54,PEN,PURCHASE,failed,AMEX,erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt
+184,2022-07-03,184,184,4777.74,THB,DEPOSIT,Completed,VISA,curabitur in libero ut massa volutpat convallis morbi odio odio
+185,2022-01-03,185,185,,CNY,DEPOSIT,Failed,AMEX,est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu
+186,2022-02-08,186,186,5016.26,BRL,WITHDRAWAL,pending,MASTERCARD,id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+187,2022-09-29,187,187,9429.75,TJS,PURCHASE,Pending,VISA,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et
+188,2022-09-05,188,188,8390.68,SEK,DEPOSIT,completed,MASTERCARD,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet
+189,2022-01-18,189,189,7807.0,IDR,DEPOSIT,Completed,MASTERCARD,quis lectus suspendisse potenti in eleifend quam a odio in
+190,2022-10-27,190,190,3530.0,KES,DEPOSIT,Failed,MASTERCARD,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec
+191,2022-06-27,191,191,1344.44,RUB,DEPOSIT,failed,AMEX,nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+192,2022-01-14,192,192,7477.65,EUR,WITHDRAWAL,Completed,VISA,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+193,2022-03-18,193,193,6478.73,IDR,PURCHASE,completed,VISA,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient
+194,2022-01-07,194,194,5730.13,IDR,WITHDRAWAL,Failed,VISA,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus
+195,2022-10-22,195,195,6969.8,CNY,DEPOSIT,failed,MASTERCARD,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+196,2022-11-15,196,196,4966.9,IDR,DEPOSIT,pending,AMEX,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus
+197,2022-08-28,197,197,9171.85,EUR,DEPOSIT,Pending,AMEX,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus
+198,2022-03-25,198,198,5425.34,CNY,PURCHASE,Completed,MASTERCARD,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus
+199,2022-12-08,199,199,2235.23,PHP,WITHDRAWAL,pending,AMEX,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+200,2022-02-03,200,200,952.73,PLN,WITHDRAWAL,Completed,MASTERCARD,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+201,2022-11-18,201,201,9745.19,CNY,DEPOSIT,Completed,VISA,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia
+202,2022-02-16,202,202,,LTL,PURCHASE,pending,AMEX,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare
+203,2022-10-21,203,203,8024.73,IDR,PURCHASE,failed,AMEX,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec
+204,2022-01-01,204,204,4131.23,THB,PURCHASE,pending,MASTERCARD,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum
+205,2022-08-04,205,205,,MKD,PURCHASE,pending,VISA,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+206,2022-07-12,206,206,7964.44,ILS,PURCHASE,Pending,VISA,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis
+207,2022-03-26,207,207,601.15,EUR,PURCHASE,Pending,MASTERCARD,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+208,2022-12-03,208,208,2185.39,RSD,WITHDRAWAL,Pending,VISA,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+209,2022-09-15,209,209,8171.28,CLP,DEPOSIT,failed,VISA,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non
+210,2022-03-26,210,210,,PHP,DEPOSIT,Failed,AMEX,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo
+211,2022-10-15,211,211,6606.22,JPY,WITHDRAWAL,failed,AMEX,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed
+212,2022-05-26,212,212,2961.2,USD,WITHDRAWAL,completed,AMEX,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+213,2022-12-25,213,213,8268.04,VND,PURCHASE,Pending,AMEX,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+214,2022-01-26,214,214,2541.47,CNY,DEPOSIT,pending,AMEX,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum
+215,2022-01-05,215,215,6378.35,PKR,WITHDRAWAL,completed,AMEX,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus
+216,2022-02-14,216,216,1925.65,CNY,PURCHASE,Completed,MASTERCARD,ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis
+217,2022-03-15,217,217,2996.32,CNY,PURCHASE,failed,VISA,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed
+218,2022-06-26,218,218,1004.93,CNY,PURCHASE,pending,MASTERCARD,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar
+219,2022-12-18,219,219,4987.64,XOF,PURCHASE,Failed,MASTERCARD,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum
+220,2022-02-27,220,220,9708.84,ALL,WITHDRAWAL,completed,VISA,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla
+221,2022-07-15,221,221,5399.71,COP,DEPOSIT,Pending,MASTERCARD,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+222,2022-12-05,222,222,8413.87,ZAR,WITHDRAWAL,Completed,VISA,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit
+223,2022-11-27,223,223,7505.7,CNY,DEPOSIT,Completed,MASTERCARD,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+224,2022-05-28,224,224,9592.99,CNY,WITHDRAWAL,Pending,MASTERCARD,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et
+225,2022-03-15,225,225,,IDR,WITHDRAWAL,completed,MASTERCARD,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien
+226,2022-12-24,226,226,3177.64,BOB,PURCHASE,Failed,VISA,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi
+227,2022-05-19,227,227,6181.26,BRL,WITHDRAWAL,completed,VISA,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet
+228,2022-02-15,228,228,9615.83,CNY,WITHDRAWAL,completed,AMEX,eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+229,2022-04-01,229,229,,IDR,DEPOSIT,Failed,AMEX,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed
+230,2022-02-21,230,230,3517.61,PHP,WITHDRAWAL,Failed,VISA,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla
+231,2022-05-08,231,231,3292.14,PHP,PURCHASE,completed,MASTERCARD,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque
+232,2022-06-13,232,232,5770.19,BRL,DEPOSIT,completed,VISA,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+233,2022-09-01,233,233,6350.01,CNY,WITHDRAWAL,failed,MASTERCARD,phasellus in felis donec semper sapien a libero nam dui
+234,2022-03-21,234,234,1272.18,CNY,WITHDRAWAL,failed,AMEX,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero
+235,2022-01-07,235,235,4890.01,JPY,DEPOSIT,Completed,MASTERCARD,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum
+236,2022-03-09,236,236,9480.57,CNY,PURCHASE,Failed,MASTERCARD,odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede
+237,2022-03-15,237,237,9498.73,BRL,PURCHASE,Failed,MASTERCARD,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer
+238,2022-06-06,238,238,,IDR,PURCHASE,failed,AMEX,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien
+239,2022-05-10,239,239,9986.74,PLN,PURCHASE,failed,MASTERCARD,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci
+240,2022-09-08,240,240,,CNY,PURCHASE,Failed,MASTERCARD,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit
+241,2022-10-18,241,241,,CNY,PURCHASE,failed,AMEX,enim blandit mi in porttitor pede justo eu massa donec dapibus
+242,2022-06-01,242,242,8384.19,HRK,PURCHASE,Completed,VISA,lacus purus aliquet at feugiat non pretium quis lectus suspendisse
+243,2022-01-08,243,243,9684.39,EUR,PURCHASE,Completed,AMEX,odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac
+244,2022-08-15,244,244,,CNY,PURCHASE,failed,VISA,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus
+245,2022-06-17,245,245,8314.8,CNY,PURCHASE,pending,VISA,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed
+246,2022-03-23,246,246,,EUR,PURCHASE,pending,VISA,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie
+247,2022-07-13,247,247,4436.02,EUR,DEPOSIT,Completed,AMEX,semper est quam pharetra magna ac consequat metus sapien ut nunc
+248,2022-06-29,248,248,7052.33,PHP,DEPOSIT,Failed,AMEX,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst
+249,2022-08-15,249,249,,RUB,PURCHASE,Failed,VISA,varius ut blandit non interdum in ante vestibulum ante ipsum primis
+250,2022-12-12,250,250,5247.67,SLL,PURCHASE,Pending,VISA,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non
+251,2022-08-16,251,251,6150.03,EUR,DEPOSIT,Completed,VISA,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat
+252,2022-12-08,252,252,8717.23,CNY,WITHDRAWAL,failed,VISA,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper
+253,2022-05-17,253,253,5514.48,MGA,WITHDRAWAL,Pending,VISA,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+254,2022-10-28,254,254,9300.42,RUB,PURCHASE,Failed,VISA,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel
+255,2022-02-17,255,255,,BYR,WITHDRAWAL,Completed,MASTERCARD,in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in
+256,2022-05-29,256,256,,EUR,DEPOSIT,Pending,VISA,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus
+257,2022-02-15,257,257,7985.21,BSD,DEPOSIT,Failed,AMEX,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar
+258,2022-01-20,258,258,767.76,AMD,WITHDRAWAL,completed,MASTERCARD,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget
+259,2022-07-18,259,259,1772.92,MXN,WITHDRAWAL,failed,VISA,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi
+260,2022-06-26,260,260,7387.89,CNY,DEPOSIT,failed,AMEX,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque
+261,2022-02-15,261,261,6808.88,ARS,PURCHASE,failed,VISA,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh
+262,2022-11-05,262,262,2395.62,TND,WITHDRAWAL,failed,MASTERCARD,ligula in lacus curabitur at ipsum ac tellus semper interdum
+263,2022-09-01,263,263,9732.81,CAD,DEPOSIT,Completed,MASTERCARD,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien
+264,2022-12-10,264,264,2651.87,IDR,PURCHASE,failed,VISA,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis
+265,2022-11-19,265,265,1268.23,PHP,DEPOSIT,completed,MASTERCARD,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend
+266,2022-02-04,266,266,1782.48,IDR,WITHDRAWAL,Completed,VISA,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+267,2022-06-02,267,267,7165.73,IDR,WITHDRAWAL,Failed,AMEX,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem
+268,2022-05-14,268,268,1297.61,XAF,WITHDRAWAL,Failed,MASTERCARD,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+269,2022-02-28,269,269,8467.46,EUR,DEPOSIT,completed,MASTERCARD,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est
+270,2022-12-18,270,270,9283.58,CHF,DEPOSIT,Failed,AMEX,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit
+271,2022-07-04,271,271,6523.74,BRL,DEPOSIT,Completed,MASTERCARD,ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+272,2022-03-25,272,272,4731.79,VND,DEPOSIT,completed,VISA,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+273,2022-03-19,273,273,6041.74,CNY,DEPOSIT,Failed,MASTERCARD,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam
+274,2022-01-11,274,274,356.78,CNY,DEPOSIT,Pending,AMEX,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut
+275,2022-12-10,275,275,1503.55,CNY,WITHDRAWAL,failed,MASTERCARD,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum
+276,2022-05-07,276,276,8731.95,CNY,PURCHASE,Failed,VISA,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci
+277,2022-09-20,277,277,,CNY,PURCHASE,completed,AMEX,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque
+278,2022-10-12,278,278,9167.32,CNY,WITHDRAWAL,Completed,AMEX,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum
+279,2022-01-11,279,279,6022.6,IDR,DEPOSIT,failed,AMEX,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum
+280,2022-07-11,280,280,8657.65,RSD,WITHDRAWAL,Failed,MASTERCARD,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus
+281,2022-01-14,281,281,6373.66,RUB,WITHDRAWAL,Pending,AMEX,consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices
+282,2022-09-28,282,282,4218.51,IDR,DEPOSIT,completed,MASTERCARD,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam
+283,2022-08-01,283,283,7453.61,EUR,WITHDRAWAL,failed,MASTERCARD,ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin
+284,2022-05-29,284,284,1054.51,RSD,WITHDRAWAL,failed,MASTERCARD,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+285,2022-01-13,285,285,5171.53,PLN,PURCHASE,Completed,VISA,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+286,2022-03-30,286,286,6641.14,IDR,DEPOSIT,Failed,VISA,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante
+287,2022-03-17,287,287,7836.17,PLN,PURCHASE,pending,VISA,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus
+288,2022-02-16,288,288,3895.0,CNY,PURCHASE,failed,MASTERCARD,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla
+289,2022-03-23,289,289,8789.41,EUR,DEPOSIT,failed,AMEX,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed
+290,2022-01-25,290,290,4230.67,CNY,DEPOSIT,Completed,AMEX,justo eu massa donec dapibus duis at velit eu est congue elementum in
+291,2022-05-24,291,291,8174.04,USD,PURCHASE,failed,MASTERCARD,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+292,2022-01-29,292,292,7583.06,PEN,DEPOSIT,pending,MASTERCARD,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa
+293,2022-05-29,293,293,7391.38,CNY,PURCHASE,Failed,MASTERCARD,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar
+294,2022-10-09,294,294,4336.85,PYG,PURCHASE,Completed,VISA,volutpat quam pede lobortis ligula sit amet eleifend pede libero
+295,2022-03-02,295,295,7136.8,CNY,PURCHASE,Completed,AMEX,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio
+296,2022-11-05,296,296,2082.77,XAF,DEPOSIT,failed,AMEX,est et tempus semper est quam pharetra magna ac consequat metus
+297,2022-06-03,297,297,7385.48,RUB,WITHDRAWAL,completed,VISA,semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+298,2022-10-20,298,298,4056.7,IDR,PURCHASE,Pending,AMEX,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+299,2022-02-27,299,299,2218.78,RUB,DEPOSIT,Pending,MASTERCARD,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+300,2022-12-21,300,300,6037.33,IDR,WITHDRAWAL,Completed,VISA,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu
+301,2022-07-06,301,301,8802.59,ARS,WITHDRAWAL,pending,AMEX,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem
+302,2022-07-22,302,302,8494.24,CNY,PURCHASE,pending,AMEX,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit
+303,2022-04-10,303,303,8009.41,BWP,WITHDRAWAL,Failed,MASTERCARD,est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+304,2022-12-29,304,304,9814.95,IDR,PURCHASE,pending,MASTERCARD,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris
+305,2022-10-05,305,305,4556.33,JPY,DEPOSIT,failed,VISA,quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse
+306,2022-08-26,306,306,719.07,IDR,WITHDRAWAL,Failed,VISA,porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh
+307,2022-04-02,307,307,5549.25,EUR,WITHDRAWAL,Failed,VISA,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel
+308,2022-06-13,308,308,7177.24,CNY,PURCHASE,failed,AMEX,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea
+309,2022-04-28,309,309,4093.61,IDR,DEPOSIT,Pending,MASTERCARD,interdum venenatis turpis enim blandit mi in porttitor pede justo
+310,2022-05-27,310,310,1454.66,JPY,DEPOSIT,completed,MASTERCARD,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis
+311,2022-01-29,311,311,1100.86,CNY,PURCHASE,Pending,AMEX,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi
+312,2022-01-14,312,312,8235.26,CNY,WITHDRAWAL,completed,VISA,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo
+313,2022-12-02,313,313,2704.61,IDR,DEPOSIT,completed,MASTERCARD,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est
+314,2022-07-21,314,314,9590.13,ARS,PURCHASE,Completed,MASTERCARD,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+315,2022-11-29,315,315,9863.63,USD,PURCHASE,completed,MASTERCARD,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+316,2022-05-10,316,316,3977.69,USD,PURCHASE,Completed,MASTERCARD,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus
+317,2022-03-27,317,317,5886.68,CNY,DEPOSIT,Failed,MASTERCARD,pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis
+318,2022-02-18,318,318,4194.42,MXN,PURCHASE,completed,VISA,pellentesque quisque porta volutpat erat quisque erat eros viverra eget
+319,2022-04-04,319,319,6332.55,IDR,DEPOSIT,failed,VISA,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non
+320,2022-07-18,320,320,8229.56,BRL,WITHDRAWAL,Pending,AMEX,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla
+321,2022-10-22,321,321,2582.56,BYR,WITHDRAWAL,failed,VISA,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget
+322,2022-08-25,322,322,6687.51,EUR,DEPOSIT,failed,AMEX,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+323,2022-12-02,323,323,2706.24,CNY,PURCHASE,Failed,MASTERCARD,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy
+324,2022-05-01,324,324,,IDR,WITHDRAWAL,completed,MASTERCARD,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat
+325,2022-01-27,325,325,5918.39,USD,WITHDRAWAL,Failed,VISA,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+326,2022-06-12,326,326,7624.11,EUR,WITHDRAWAL,Failed,AMEX,rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+327,2022-07-30,327,327,4871.64,EUR,WITHDRAWAL,Failed,MASTERCARD,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at
+328,2022-06-20,328,328,1199.92,AZN,WITHDRAWAL,Completed,VISA,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat
+329,2022-06-09,329,329,8247.63,CZK,WITHDRAWAL,completed,VISA,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa
+330,2022-09-19,330,330,6738.26,SEK,WITHDRAWAL,Failed,AMEX,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue
+331,2022-04-24,331,331,7607.92,LKR,WITHDRAWAL,Pending,VISA,sit amet justo morbi ut odio cras mi pede malesuada
+332,2022-08-14,332,332,9290.17,IRR,DEPOSIT,Completed,MASTERCARD,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+333,2022-02-12,333,333,1703.73,EUR,PURCHASE,Pending,MASTERCARD,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur
+334,2022-12-21,334,334,4504.44,RUB,PURCHASE,Completed,MASTERCARD,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut
+335,2022-02-20,335,335,649.85,PHP,DEPOSIT,failed,MASTERCARD,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at
+336,2022-05-10,336,336,6140.34,USD,WITHDRAWAL,failed,AMEX,neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+337,2022-02-12,337,337,6463.31,IDR,WITHDRAWAL,Completed,MASTERCARD,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+338,2022-02-22,338,338,4572.67,CNY,PURCHASE,Pending,MASTERCARD,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis
+339,2022-07-05,339,339,,EUR,DEPOSIT,failed,MASTERCARD,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat
+340,2022-07-13,340,340,3229.53,MYR,PURCHASE,Completed,VISA,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+341,2022-09-09,341,341,2946.96,VND,PURCHASE,completed,VISA,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat
+342,2022-01-09,342,342,8696.55,CNY,DEPOSIT,Completed,AMEX,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla
+343,2022-01-04,343,343,6919.59,PHP,DEPOSIT,failed,VISA,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi
+344,2022-03-19,344,344,9796.16,PLN,PURCHASE,pending,VISA,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus
+345,2022-04-12,345,345,8594.13,OMR,WITHDRAWAL,failed,MASTERCARD,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum
+346,2022-10-23,346,346,2036.2,IDR,PURCHASE,failed,MASTERCARD,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+347,2022-12-08,347,347,7460.17,MNT,PURCHASE,Completed,AMEX,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare
+348,2022-03-07,348,348,2639.84,CNY,PURCHASE,Completed,VISA,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+349,2022-07-22,349,349,3502.05,BRL,PURCHASE,failed,AMEX,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+350,2022-03-28,350,350,,CNY,DEPOSIT,completed,VISA,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at
+351,2022-09-11,351,351,7212.17,IDR,WITHDRAWAL,Failed,MASTERCARD,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+352,2022-04-09,352,352,4632.52,EUR,DEPOSIT,pending,VISA,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+353,2022-12-18,353,353,8239.4,PEN,DEPOSIT,Pending,MASTERCARD,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum
+354,2022-06-19,354,354,706.06,CNY,PURCHASE,Failed,AMEX,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum
+355,2022-07-15,355,355,8525.58,BYR,DEPOSIT,Failed,MASTERCARD,in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut
+356,2022-08-19,356,356,3302.89,USD,PURCHASE,Failed,AMEX,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui
+357,2022-12-29,357,357,1776.55,CNY,WITHDRAWAL,failed,MASTERCARD,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue
+358,2022-04-14,358,358,7043.15,USD,DEPOSIT,Pending,MASTERCARD,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi
+359,2022-07-21,359,359,2749.46,IDR,DEPOSIT,completed,AMEX,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum
+360,2022-11-16,360,360,5522.28,EUR,DEPOSIT,Pending,MASTERCARD,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum
+361,2022-02-14,361,361,3922.72,EUR,PURCHASE,Failed,MASTERCARD,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo
+362,2022-05-08,362,362,5109.56,SEK,PURCHASE,Pending,AMEX,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu
+363,2022-09-12,363,363,5482.1,RUB,DEPOSIT,Completed,AMEX,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt
+364,2022-07-09,364,364,6228.16,GMD,DEPOSIT,Failed,MASTERCARD,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem
+365,2022-08-30,365,365,5943.07,IDR,WITHDRAWAL,Pending,AMEX,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula
+366,2022-08-07,366,366,4315.91,RUB,WITHDRAWAL,completed,MASTERCARD,suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper
+367,2022-03-05,367,367,7952.89,RUB,DEPOSIT,Pending,AMEX,aliquam erat volutpat in congue etiam justo etiam pretium iaculis
+368,2022-05-03,368,368,1520.63,PLN,PURCHASE,pending,MASTERCARD,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae
+369,2022-01-24,369,369,5692.81,EUR,WITHDRAWAL,completed,AMEX,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet
+370,2022-07-31,370,370,9032.04,EUR,DEPOSIT,Failed,VISA,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum
+371,2022-06-06,371,371,1849.5,GBP,DEPOSIT,Failed,AMEX,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci
+372,2022-10-30,372,372,1959.4,EUR,DEPOSIT,Pending,AMEX,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla
+373,2022-06-19,373,373,8597.78,EUR,DEPOSIT,pending,MASTERCARD,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis
+374,2022-07-30,374,374,5595.61,ILS,WITHDRAWAL,Pending,AMEX,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus
+375,2022-03-22,375,375,812.59,CNY,PURCHASE,Pending,VISA,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla
+376,2022-06-03,376,376,6184.94,ARS,PURCHASE,completed,AMEX,est et tempus semper est quam pharetra magna ac consequat metus
+377,2022-11-14,377,377,9024.07,PHP,PURCHASE,Pending,AMEX,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+378,2022-10-20,378,378,1953.57,IDR,DEPOSIT,completed,AMEX,massa tempor convallis nulla neque libero convallis eget eleifend luctus
+379,2022-09-19,379,379,8006.26,BDT,PURCHASE,Completed,AMEX,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id
+380,2022-05-20,380,380,8849.09,MYR,DEPOSIT,pending,VISA,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit
+381,2022-11-30,381,381,2918.55,USD,WITHDRAWAL,Pending,MASTERCARD,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+382,2022-01-24,382,382,9261.93,CNY,DEPOSIT,Completed,VISA,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+383,2022-06-11,383,383,574.35,JPY,DEPOSIT,completed,AMEX,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+384,2022-08-27,384,384,158.07,THB,WITHDRAWAL,Pending,AMEX,rutrum ac lobortis vel dapibus at diam nam tristique tortor eu
+385,2022-05-18,385,385,,XOF,WITHDRAWAL,completed,MASTERCARD,enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+386,2022-12-02,386,386,4623.58,CNY,PURCHASE,Pending,VISA,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat
+387,2022-04-10,387,387,4983.44,KZT,WITHDRAWAL,failed,VISA,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit
+388,2022-10-21,388,388,5595.1,SDG,PURCHASE,Failed,AMEX,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+389,2022-07-31,389,389,9892.03,CNY,WITHDRAWAL,completed,VISA,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes
+390,2022-09-14,390,390,8868.07,PLN,WITHDRAWAL,pending,VISA,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna
+391,2022-01-18,391,391,9155.16,NGN,WITHDRAWAL,pending,MASTERCARD,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur
+392,2022-11-28,392,392,2028.99,CNY,PURCHASE,pending,MASTERCARD,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum
+393,2022-02-27,393,393,5930.54,EUR,DEPOSIT,completed,AMEX,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+394,2022-04-24,394,394,6715.41,RUB,WITHDRAWAL,pending,AMEX,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+395,2022-07-09,395,395,8419.98,IDR,DEPOSIT,completed,VISA,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia
+396,2022-04-29,396,396,6375.68,CNY,PURCHASE,completed,AMEX,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin
+397,2022-04-09,397,397,6817.3,CLP,PURCHASE,pending,MASTERCARD,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum
+398,2022-06-02,398,398,,UAH,DEPOSIT,completed,AMEX,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam
+399,2022-02-02,399,399,5372.96,EUR,WITHDRAWAL,failed,VISA,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec
+400,2022-05-14,400,400,7475.48,COP,DEPOSIT,completed,MASTERCARD,ligula nec sem duis aliquam convallis nunc proin at turpis
+401,2022-07-09,401,401,249.71,MRO,WITHDRAWAL,completed,AMEX,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+402,2022-03-11,402,402,4514.74,JPY,WITHDRAWAL,failed,VISA,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla
+403,2022-06-23,403,403,6939.72,PLN,DEPOSIT,completed,AMEX,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor
+404,2022-10-25,404,404,,COP,WITHDRAWAL,completed,MASTERCARD,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+405,2022-10-02,405,405,6440.69,BRL,WITHDRAWAL,pending,MASTERCARD,quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae
+406,2022-06-15,406,406,4123.36,CNY,DEPOSIT,failed,VISA,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio
+407,2022-06-10,407,407,3991.44,MXN,DEPOSIT,Completed,VISA,morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel
+408,2022-08-21,408,408,857.47,CNY,PURCHASE,Failed,VISA,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing
+409,2022-06-30,409,409,602.09,IDR,PURCHASE,pending,AMEX,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in
+410,2022-12-27,410,410,,EUR,DEPOSIT,Completed,MASTERCARD,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus
+411,2022-01-09,411,411,7852.75,LYD,PURCHASE,completed,AMEX,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+412,2022-01-06,412,412,,ARS,PURCHASE,failed,AMEX,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+413,2022-02-06,413,413,3515.09,COP,WITHDRAWAL,Pending,AMEX,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget
+414,2022-11-02,414,414,9168.14,CAD,WITHDRAWAL,Completed,VISA,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum
+415,2022-08-15,415,415,8355.81,CNY,WITHDRAWAL,Pending,MASTERCARD,massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis
+416,2022-05-06,416,416,8966.09,IDR,DEPOSIT,Failed,AMEX,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta
+417,2022-07-07,417,417,,CZK,PURCHASE,Failed,VISA,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at
+418,2022-04-08,418,418,8022.52,USD,WITHDRAWAL,Completed,MASTERCARD,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor
+419,2022-07-15,419,419,5650.14,BRL,WITHDRAWAL,completed,VISA,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis
+420,2022-08-12,420,420,3426.34,IDR,WITHDRAWAL,Completed,VISA,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet
+421,2022-09-06,421,421,9929.47,CNY,PURCHASE,completed,MASTERCARD,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices
+422,2022-08-29,422,422,,BAM,PURCHASE,Failed,VISA,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+423,2022-10-18,423,423,8326.72,PHP,WITHDRAWAL,failed,AMEX,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer
+424,2022-06-18,424,424,1702.55,EUR,WITHDRAWAL,Completed,AMEX,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+425,2022-09-16,425,425,7147.14,MNT,PURCHASE,completed,MASTERCARD,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi
+426,2022-04-23,426,426,5311.97,IDR,WITHDRAWAL,Failed,MASTERCARD,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur
+427,2022-11-14,427,427,7122.86,RUB,PURCHASE,pending,AMEX,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+428,2022-09-27,428,428,7773.43,RUB,DEPOSIT,Pending,AMEX,congue diam id ornare imperdiet sapien urna pretium nisl ut
+429,2022-09-16,429,429,573.14,NIO,WITHDRAWAL,Completed,MASTERCARD,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa
+430,2022-06-25,430,430,7281.78,JMD,WITHDRAWAL,failed,MASTERCARD,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor
+431,2022-01-28,431,431,443.73,ARS,DEPOSIT,Pending,VISA,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+432,2022-02-04,432,432,5113.16,IDR,DEPOSIT,completed,VISA,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a
+433,2022-11-16,433,433,1878.39,PLN,PURCHASE,Completed,VISA,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et
+434,2022-08-07,434,434,4396.77,CNY,PURCHASE,completed,VISA,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas
+435,2022-08-22,435,435,697.98,BOB,PURCHASE,Pending,MASTERCARD,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit
+436,2022-08-04,436,436,6173.99,THB,WITHDRAWAL,pending,MASTERCARD,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet
+437,2022-04-11,437,437,2280.83,SAR,PURCHASE,failed,MASTERCARD,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in
+438,2022-11-07,438,438,9761.71,EUR,WITHDRAWAL,Completed,MASTERCARD,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum
+439,2022-10-06,439,439,4706.93,EUR,DEPOSIT,Failed,AMEX,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo
+440,2022-02-14,440,440,5966.56,CNY,WITHDRAWAL,Pending,AMEX,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat
+441,2022-07-08,441,441,7859.59,USD,DEPOSIT,failed,AMEX,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere
+442,2022-04-22,442,442,802.12,PHP,WITHDRAWAL,failed,AMEX,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at
+443,2022-08-12,443,443,5105.68,CNY,PURCHASE,Pending,VISA,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel
+444,2022-10-22,444,444,9941.86,CNY,DEPOSIT,failed,MASTERCARD,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at
+445,2022-05-16,445,445,2661.79,PHP,DEPOSIT,Failed,MASTERCARD,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus
+446,2022-09-16,446,446,806.98,JPY,PURCHASE,Completed,VISA,eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla
+447,2022-08-15,447,447,1919.1,PHP,PURCHASE,Pending,VISA,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+448,2022-10-30,448,448,4429.36,ARS,WITHDRAWAL,failed,AMEX,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida
+449,2022-05-07,449,449,4083.74,PLN,DEPOSIT,pending,VISA,sed tristique in tempus sit amet sem fusce consequat nulla
+450,2022-07-17,450,450,8711.68,NOK,PURCHASE,Failed,MASTERCARD,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in
+451,2022-12-17,451,451,7007.52,EUR,WITHDRAWAL,completed,VISA,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet
+452,2022-02-08,452,452,1539.73,VEF,DEPOSIT,failed,VISA,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+453,2022-08-29,453,453,4119.21,CNY,WITHDRAWAL,Failed,VISA,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo
+454,2022-08-22,454,454,3532.49,PAB,WITHDRAWAL,failed,MASTERCARD,est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et
+455,2022-04-25,455,455,5389.83,CNY,WITHDRAWAL,pending,MASTERCARD,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam
+456,2022-01-25,456,456,9353.21,TTD,PURCHASE,Pending,AMEX,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna
+457,2022-11-14,457,457,5323.11,CNY,WITHDRAWAL,Failed,AMEX,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar
+458,2022-06-19,458,458,3404.57,IDR,WITHDRAWAL,Failed,MASTERCARD,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+459,2022-03-29,459,459,,BRL,PURCHASE,pending,VISA,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+460,2022-05-27,460,460,4630.63,RUB,PURCHASE,Completed,AMEX,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt
+461,2022-05-12,461,461,660.07,COP,WITHDRAWAL,Completed,AMEX,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla
+462,2022-02-27,462,462,1551.8,EUR,WITHDRAWAL,Failed,AMEX,odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas
+463,2022-01-21,463,463,4849.4,PAB,WITHDRAWAL,Pending,AMEX,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate
+464,2022-10-25,464,464,4108.05,HNL,WITHDRAWAL,pending,VISA,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea
+465,2022-11-09,465,465,768.06,KRW,WITHDRAWAL,Pending,AMEX,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam
+466,2022-08-23,466,466,3656.89,IDR,WITHDRAWAL,Failed,AMEX,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum
+467,2022-09-25,467,467,4564.36,EUR,WITHDRAWAL,completed,VISA,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue
+468,2022-01-26,468,468,8618.85,RUB,DEPOSIT,Failed,VISA,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum
+469,2022-12-24,469,469,6630.28,XOF,PURCHASE,completed,MASTERCARD,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi
+470,2022-08-13,470,470,589.7,PHP,PURCHASE,completed,VISA,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate
+471,2022-07-09,471,471,9837.86,UAH,PURCHASE,Failed,MASTERCARD,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae
+472,2022-03-05,472,472,3455.36,SEK,PURCHASE,completed,AMEX,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra
+473,2022-08-29,473,473,2713.75,PLN,WITHDRAWAL,failed,MASTERCARD,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio
+474,2022-08-23,474,474,7715.96,CNY,DEPOSIT,Completed,VISA,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida
+475,2022-06-19,475,475,3262.26,PHP,PURCHASE,pending,MASTERCARD,magna at nunc commodo placerat praesent blandit nam nulla integer pede
+476,2022-01-08,476,476,,SEK,WITHDRAWAL,pending,MASTERCARD,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien
+477,2022-05-28,477,477,7937.51,ALL,WITHDRAWAL,completed,AMEX,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt
+478,2022-10-19,478,478,83.1,MXN,WITHDRAWAL,Pending,AMEX,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo
+479,2022-09-30,479,479,31.38,EUR,PURCHASE,Failed,AMEX,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac
+480,2022-11-07,480,480,1170.64,IDR,WITHDRAWAL,completed,AMEX,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus
+481,2022-07-01,481,481,5797.71,CZK,WITHDRAWAL,pending,VISA,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+482,2022-09-17,482,482,,CNY,WITHDRAWAL,Failed,MASTERCARD,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+483,2022-02-11,483,483,8072.55,CNY,PURCHASE,Pending,AMEX,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis
+484,2022-10-04,484,484,5847.04,SEK,DEPOSIT,completed,VISA,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien
+485,2022-04-29,485,485,9565.16,LTL,PURCHASE,completed,VISA,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit
+486,2022-06-21,486,486,8824.61,CNY,WITHDRAWAL,pending,VISA,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus
+487,2022-09-22,487,487,2751.73,NGN,WITHDRAWAL,completed,VISA,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse
+488,2022-08-05,488,488,,CNY,WITHDRAWAL,Pending,VISA,enim blandit mi in porttitor pede justo eu massa donec dapibus
+489,2022-09-28,489,489,9779.21,UZS,WITHDRAWAL,Completed,VISA,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis
+490,2022-12-09,490,490,1572.35,EUR,DEPOSIT,completed,VISA,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+491,2022-06-29,491,491,9480.5,XAF,DEPOSIT,Completed,MASTERCARD,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+492,2022-05-19,492,492,4099.28,EUR,DEPOSIT,Pending,AMEX,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue
+493,2022-04-30,493,493,1534.78,CNY,DEPOSIT,Failed,AMEX,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec
+494,2022-02-13,494,494,1850.31,MAD,DEPOSIT,completed,AMEX,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu
+495,2022-05-28,495,495,8825.01,CNY,DEPOSIT,Failed,AMEX,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce
+496,2022-04-19,496,496,4023.06,IDR,PURCHASE,Failed,AMEX,neque duis bibendum morbi non quam nec dui luctus rutrum nulla
+497,2022-01-21,497,497,7305.41,TZS,DEPOSIT,Completed,MASTERCARD,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor
+498,2022-12-10,498,498,6559.67,EUR,WITHDRAWAL,Completed,AMEX,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum
+499,2022-05-30,499,499,6132.55,PHP,PURCHASE,Failed,AMEX,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu
+500,2022-05-27,500,500,1493.57,CNY,WITHDRAWAL,Failed,AMEX,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum
+501,2022-12-29,501,501,5395.21,SEK,DEPOSIT,Pending,MASTERCARD,vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec
+502,2022-01-25,502,502,2039.79,CNY,DEPOSIT,pending,MASTERCARD,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+503,2022-03-16,503,503,8206.13,BRL,PURCHASE,Failed,MASTERCARD,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+504,2022-03-05,504,504,8772.24,CNY,PURCHASE,Completed,VISA,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla
+505,2022-05-21,505,505,7549.51,EUR,PURCHASE,Failed,AMEX,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+506,2022-03-30,506,506,3303.05,CNY,WITHDRAWAL,Failed,VISA,morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum
+507,2022-05-03,507,507,3882.5,TND,DEPOSIT,failed,MASTERCARD,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in
+508,2022-07-09,508,508,2470.15,UAH,WITHDRAWAL,Failed,AMEX,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+509,2022-11-12,509,509,1960.19,IDR,WITHDRAWAL,completed,MASTERCARD,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo
+510,2022-02-19,510,510,6517.32,RUB,WITHDRAWAL,Pending,VISA,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo
+511,2022-02-20,511,511,9866.98,RSD,WITHDRAWAL,pending,AMEX,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus
+512,2022-03-10,512,512,7642.48,THB,WITHDRAWAL,Completed,VISA,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate
+513,2022-07-19,513,513,3332.63,CZK,PURCHASE,Failed,AMEX,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec
+514,2022-04-24,514,514,7316.35,MXN,WITHDRAWAL,pending,VISA,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque
+515,2022-06-19,515,515,4630.96,EUR,DEPOSIT,completed,MASTERCARD,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet
+516,2022-03-27,516,516,6790.94,RUB,WITHDRAWAL,completed,MASTERCARD,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus
+517,2022-02-08,517,517,8700.74,JPY,PURCHASE,Failed,AMEX,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci
+518,2022-11-05,518,518,6277.08,CNY,DEPOSIT,Failed,VISA,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at
+519,2022-01-04,519,519,4857.09,CNY,PURCHASE,failed,MASTERCARD,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at
+520,2022-04-19,520,520,5552.16,EUR,DEPOSIT,failed,VISA,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget
+521,2022-01-15,521,521,9729.59,SEK,WITHDRAWAL,Failed,VISA,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere
+522,2022-02-01,522,522,557.77,EUR,DEPOSIT,pending,MASTERCARD,in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis
+523,2022-02-07,523,523,2729.33,UAH,WITHDRAWAL,Completed,VISA,eu orci mauris lacinia sapien quis libero nullam sit amet turpis
+524,2022-06-21,524,524,7284.62,RSD,WITHDRAWAL,Completed,MASTERCARD,semper sapien a libero nam dui proin leo odio porttitor id consequat
+525,2022-04-08,525,525,4778.12,IDR,DEPOSIT,pending,MASTERCARD,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+526,2022-01-15,526,526,2416.94,ARS,DEPOSIT,Completed,MASTERCARD,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis
+527,2022-08-04,527,527,1390.43,EUR,WITHDRAWAL,Failed,VISA,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui
+528,2022-01-19,528,528,424.68,AUD,DEPOSIT,completed,VISA,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis
+529,2022-07-12,529,529,3400.51,USD,WITHDRAWAL,failed,MASTERCARD,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam
+530,2022-11-03,530,530,9412.28,IRR,WITHDRAWAL,Completed,AMEX,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet
+531,2022-10-14,531,531,2500.1,BRL,WITHDRAWAL,Failed,MASTERCARD,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim
+532,2022-04-03,532,532,9713.26,PLN,DEPOSIT,pending,MASTERCARD,ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+533,2022-07-27,533,533,8735.08,CNY,PURCHASE,failed,MASTERCARD,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus
+534,2022-08-11,534,534,9250.5,BRL,WITHDRAWAL,pending,AMEX,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+535,2022-04-23,535,535,5706.88,EUR,WITHDRAWAL,pending,MASTERCARD,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+536,2022-07-13,536,536,1267.42,CNY,PURCHASE,failed,MASTERCARD,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac
+537,2022-06-26,537,537,9685.86,CNY,WITHDRAWAL,Pending,MASTERCARD,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam
+538,2022-12-25,538,538,8109.52,EUR,DEPOSIT,pending,AMEX,nulla sed accumsan felis ut at dolor quis odio consequat varius
+539,2022-11-03,539,539,2662.6,HNL,WITHDRAWAL,completed,MASTERCARD,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui
+540,2022-12-24,540,540,6207.71,CNY,PURCHASE,completed,VISA,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel
+541,2022-04-26,541,541,4581.12,CNY,DEPOSIT,Failed,MASTERCARD,in ante vestibulum ante ipsum primis in faucibus orci luctus
+542,2022-07-08,542,542,,EUR,WITHDRAWAL,Pending,AMEX,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut
+543,2022-06-16,543,543,3900.14,CNY,PURCHASE,completed,VISA,purus phasellus in felis donec semper sapien a libero nam
+544,2022-01-18,544,544,9750.35,VND,WITHDRAWAL,pending,AMEX,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis
+545,2022-08-06,545,545,7421.75,CNY,PURCHASE,Completed,MASTERCARD,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien
+546,2022-05-15,546,546,9627.7,CNY,PURCHASE,Pending,VISA,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan
+547,2022-05-17,547,547,6279.32,BRL,DEPOSIT,completed,MASTERCARD,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem
+548,2022-10-05,548,548,,MXN,WITHDRAWAL,Failed,AMEX,cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros
+549,2022-04-22,549,549,9309.05,VND,DEPOSIT,completed,VISA,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut
+550,2022-09-21,550,550,3881.21,KMF,WITHDRAWAL,pending,AMEX,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at
+551,2022-07-20,551,551,2030.23,ILS,WITHDRAWAL,Completed,VISA,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+552,2022-03-21,552,552,5117.82,KRW,PURCHASE,failed,VISA,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean
+553,2022-04-30,553,553,9045.14,CNY,DEPOSIT,Completed,VISA,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh
+554,2022-05-15,554,554,866.78,CNY,WITHDRAWAL,Completed,AMEX,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+555,2022-09-26,555,555,8442.02,KZT,PURCHASE,failed,MASTERCARD,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae
+556,2022-12-28,556,556,3690.98,CNY,DEPOSIT,pending,VISA,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea
+557,2022-12-09,557,557,,ARS,DEPOSIT,Failed,VISA,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat
+558,2022-09-16,558,558,5790.71,EUR,WITHDRAWAL,Pending,MASTERCARD,eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes
+559,2022-04-01,559,559,8549.97,CNY,DEPOSIT,pending,AMEX,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus
+560,2022-08-29,560,560,985.15,ARS,PURCHASE,pending,AMEX,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+561,2022-07-26,561,561,2393.57,CNY,PURCHASE,failed,VISA,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui
+562,2022-06-06,562,562,1820.0,BRL,PURCHASE,Failed,MASTERCARD,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+563,2022-06-18,563,563,,KZT,DEPOSIT,completed,AMEX,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum
+564,2022-09-18,564,564,,CUP,DEPOSIT,pending,VISA,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel
+565,2022-03-01,565,565,8467.23,EUR,DEPOSIT,completed,VISA,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in
+566,2022-01-31,566,566,8860.16,CNY,DEPOSIT,Failed,AMEX,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis
+567,2022-04-01,567,567,,CNY,PURCHASE,failed,AMEX,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque
+568,2022-06-01,568,568,2640.34,SEK,PURCHASE,Failed,AMEX,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+569,2022-04-05,569,569,1286.63,EUR,WITHDRAWAL,failed,AMEX,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent
+570,2022-04-26,570,570,,AMD,PURCHASE,Completed,MASTERCARD,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+571,2022-01-26,571,571,,RUB,DEPOSIT,Pending,MASTERCARD,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros
+572,2022-11-17,572,572,1695.45,CNY,WITHDRAWAL,pending,AMEX,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur
+573,2022-11-19,573,573,9644.32,XAF,DEPOSIT,failed,VISA,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat
+574,2022-10-12,574,574,1733.15,KZT,PURCHASE,pending,MASTERCARD,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est
+575,2022-08-04,575,575,5810.02,CNY,DEPOSIT,Pending,AMEX,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat
+576,2022-12-03,576,576,298.49,CNY,PURCHASE,completed,VISA,iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam
+577,2022-07-05,577,577,4590.36,DKK,DEPOSIT,pending,MASTERCARD,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie
+578,2022-01-27,578,578,5535.02,CNY,PURCHASE,Failed,VISA,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+579,2022-06-29,579,579,6303.34,CNY,PURCHASE,Failed,VISA,enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac
+580,2022-05-15,580,580,4876.17,ILS,PURCHASE,failed,VISA,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt
+581,2022-05-28,581,581,5678.99,EUR,WITHDRAWAL,Failed,AMEX,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus
+582,2022-10-21,582,582,6940.84,USD,PURCHASE,pending,MASTERCARD,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis
+583,2022-10-03,583,583,7313.46,CNY,DEPOSIT,Completed,MASTERCARD,quis orci eget orci vehicula condimentum curabitur in libero ut
+584,2022-07-08,584,584,4896.35,UAH,PURCHASE,failed,VISA,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien
+585,2022-12-26,585,585,6361.89,CNY,PURCHASE,completed,VISA,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit
+586,2022-03-10,586,586,727.99,SEK,PURCHASE,completed,VISA,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam
+587,2022-09-14,587,587,4765.97,RUB,PURCHASE,Failed,MASTERCARD,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi
+588,2022-02-16,588,588,8948.84,TWD,PURCHASE,Pending,MASTERCARD,velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra
+589,2022-11-21,589,589,3878.53,ALL,DEPOSIT,Pending,AMEX,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+590,2022-07-20,590,590,7876.69,RUB,PURCHASE,Failed,VISA,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+591,2022-11-02,591,591,949.7,MGA,WITHDRAWAL,Failed,AMEX,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque
+592,2022-10-22,592,592,9497.98,IDR,PURCHASE,Completed,AMEX,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus
+593,2022-09-26,593,593,2876.89,SEK,DEPOSIT,pending,MASTERCARD,eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa
+594,2022-03-19,594,594,4059.99,IDR,DEPOSIT,Completed,MASTERCARD,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque
+595,2022-06-24,595,595,,SLL,PURCHASE,Failed,AMEX,mi sit amet lobortis sapien sapien non mi integer ac neque
+596,2022-07-28,596,596,7114.1,IDR,WITHDRAWAL,Pending,MASTERCARD,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate
+597,2022-04-02,597,597,4530.18,CNY,PURCHASE,Pending,VISA,nulla sed accumsan felis ut at dolor quis odio consequat varius integer
+598,2022-04-22,598,598,3933.23,IDR,DEPOSIT,Failed,MASTERCARD,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat
+599,2022-03-12,599,599,451.48,CNY,DEPOSIT,Failed,VISA,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non
+600,2022-04-15,600,600,,EUR,WITHDRAWAL,Pending,AMEX,quam a odio in hac habitasse platea dictumst maecenas ut massa
+601,2022-02-06,601,601,3571.94,RSD,DEPOSIT,Failed,MASTERCARD,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras
+602,2022-06-29,602,602,,PYG,PURCHASE,Failed,VISA,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis
+603,2022-12-15,603,603,2034.56,EUR,WITHDRAWAL,failed,MASTERCARD,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis
+604,2022-11-04,604,604,7674.2,CNY,DEPOSIT,failed,AMEX,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat
+605,2022-03-25,605,605,9527.41,ARS,WITHDRAWAL,pending,MASTERCARD,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti
+606,2022-08-20,606,606,,EUR,PURCHASE,Completed,MASTERCARD,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy
+607,2022-12-14,607,607,5821.22,BAM,PURCHASE,failed,VISA,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra
+608,2022-05-11,608,608,,AZN,WITHDRAWAL,Failed,MASTERCARD,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in
+609,2022-11-02,609,609,6703.37,USD,DEPOSIT,Completed,VISA,faucibus cursus urna ut tellus nulla ut erat id mauris
+610,2022-08-01,610,610,5378.18,ILS,WITHDRAWAL,pending,VISA,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis
+611,2022-11-20,611,611,6607.17,NOK,WITHDRAWAL,pending,VISA,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis
+612,2022-12-28,612,612,1552.76,IDR,PURCHASE,completed,VISA,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices
+613,2022-11-04,613,613,1656.61,CNY,DEPOSIT,Failed,VISA,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices
+614,2022-06-12,614,614,5159.6,CNY,WITHDRAWAL,failed,MASTERCARD,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+615,2022-11-19,615,615,3778.59,COP,WITHDRAWAL,pending,MASTERCARD,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu
+616,2022-10-18,616,616,4541.09,EGP,WITHDRAWAL,Completed,MASTERCARD,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis
+617,2022-04-27,617,617,9151.02,BRL,DEPOSIT,failed,MASTERCARD,congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+618,2022-05-23,618,618,1941.83,IDR,WITHDRAWAL,Pending,MASTERCARD,a suscipit nulla elit ac nulla sed vel enim sit amet nunc
+619,2022-12-25,619,619,4395.12,IDR,PURCHASE,Failed,VISA,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a
+620,2022-04-14,620,620,1869.56,EUR,DEPOSIT,completed,AMEX,donec vitae nisi nam ultrices libero non mattis pulvinar nulla
+621,2022-03-06,621,621,506.09,IDR,WITHDRAWAL,Pending,VISA,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis
+622,2022-06-30,622,622,,RUB,DEPOSIT,Completed,AMEX,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin
+623,2022-09-09,623,623,,RUB,DEPOSIT,failed,VISA,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt
+624,2022-02-21,624,624,7163.27,PEN,WITHDRAWAL,Completed,VISA,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur
+625,2022-10-13,625,625,7324.36,RUB,PURCHASE,Failed,AMEX,ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+626,2022-02-28,626,626,7933.25,PAB,DEPOSIT,pending,MASTERCARD,mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in
+627,2022-06-15,627,627,1907.24,CNY,WITHDRAWAL,completed,MASTERCARD,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper
+628,2022-12-13,628,628,6495.11,EUR,PURCHASE,Completed,MASTERCARD,velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis
+629,2022-10-09,629,629,,AFN,DEPOSIT,pending,AMEX,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent
+630,2022-03-05,630,630,,CNY,PURCHASE,Completed,VISA,ac diam cras pellentesque volutpat dui maecenas tristique est et
+631,2022-10-22,631,631,651.56,MAD,PURCHASE,pending,VISA,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem
+632,2022-01-03,632,632,5770.32,IDR,PURCHASE,pending,AMEX,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque
+633,2022-01-21,633,633,4912.91,CNY,WITHDRAWAL,failed,AMEX,pellentesque volutpat dui maecenas tristique est et tempus semper est
+634,2022-11-06,634,634,330.38,SLL,PURCHASE,failed,VISA,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis
+635,2022-03-30,635,635,3431.75,ARS,PURCHASE,Completed,VISA,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+636,2022-07-31,636,636,9158.71,SDG,WITHDRAWAL,Pending,AMEX,etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id
+637,2022-06-16,637,637,5214.41,CNY,WITHDRAWAL,failed,AMEX,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue
+638,2022-04-20,638,638,6462.4,CNY,PURCHASE,Pending,VISA,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam
+639,2022-01-01,639,639,953.57,PHP,PURCHASE,pending,MASTERCARD,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec
+640,2022-05-17,640,640,1020.32,IDR,DEPOSIT,completed,AMEX,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus
+641,2022-03-09,641,641,2412.7,EUR,DEPOSIT,completed,VISA,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum
+642,2022-10-06,642,642,8050.5,CNY,PURCHASE,completed,MASTERCARD,eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+643,2022-10-31,643,643,1071.68,BRL,PURCHASE,failed,AMEX,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet
+644,2022-10-07,644,644,4174.91,CZK,DEPOSIT,Completed,AMEX,augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra
+645,2022-10-10,645,645,,IDR,DEPOSIT,Pending,VISA,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis
+646,2022-03-17,646,646,7752.74,IDR,WITHDRAWAL,Failed,VISA,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor
+647,2022-03-17,647,647,4137.37,CLP,PURCHASE,pending,VISA,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede
+648,2022-12-14,648,648,3309.27,IDR,PURCHASE,completed,VISA,tortor id nulla ultrices aliquet maecenas leo odio condimentum id
+649,2022-06-05,649,649,2622.27,EUR,DEPOSIT,completed,VISA,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue
+650,2022-05-28,650,650,6003.41,PEN,WITHDRAWAL,Completed,VISA,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
+651,2022-10-27,651,651,6391.85,JPY,DEPOSIT,completed,AMEX,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+652,2022-04-10,652,652,7227.23,IDR,DEPOSIT,completed,AMEX,eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras
+653,2022-02-21,653,653,8648.43,CNY,PURCHASE,pending,MASTERCARD,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti
+654,2022-07-05,654,654,2017.29,CNY,WITHDRAWAL,Failed,AMEX,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est
+655,2022-01-20,655,655,7326.22,SDG,WITHDRAWAL,Completed,AMEX,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+656,2022-09-21,656,656,8196.09,GEL,PURCHASE,Failed,AMEX,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat
+657,2022-06-15,657,657,8974.12,MMK,PURCHASE,Failed,VISA,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat
+658,2022-07-29,658,658,5657.33,PHP,DEPOSIT,Pending,VISA,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur
+659,2022-08-25,659,659,5006.46,BRL,PURCHASE,Pending,AMEX,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus
+660,2022-09-22,660,660,2219.05,CNY,PURCHASE,completed,VISA,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a
+661,2022-06-15,661,661,8459.16,PAB,PURCHASE,Completed,MASTERCARD,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris
+662,2022-09-10,662,662,5618.5,ARS,DEPOSIT,failed,MASTERCARD,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor
+663,2022-05-04,663,663,9970.04,XAF,DEPOSIT,completed,AMEX,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi
+664,2022-09-17,664,664,3208.17,IDR,DEPOSIT,completed,AMEX,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et
+665,2022-08-03,665,665,8681.95,IDR,PURCHASE,completed,AMEX,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel
+666,2022-05-12,666,666,7639.11,SZL,PURCHASE,Failed,MASTERCARD,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio
+667,2022-05-07,667,667,3389.95,VND,DEPOSIT,Completed,VISA,tellus in sagittis dui vel nisl duis ac nibh fusce
+668,2022-08-08,668,668,4508.52,IDR,DEPOSIT,Completed,VISA,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum
+669,2022-09-23,669,669,1391.95,KZT,WITHDRAWAL,Pending,AMEX,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi
+670,2022-02-17,670,670,4644.43,CNY,PURCHASE,completed,MASTERCARD,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+671,2022-08-21,671,671,4851.73,MAD,DEPOSIT,Completed,AMEX,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis
+672,2022-12-08,672,672,2811.27,CNY,WITHDRAWAL,pending,MASTERCARD,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+673,2022-05-27,673,673,,RSD,WITHDRAWAL,Pending,MASTERCARD,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in
+674,2022-02-06,674,674,6910.94,PKR,DEPOSIT,failed,VISA,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non
+675,2022-06-27,675,675,3155.91,EUR,WITHDRAWAL,Completed,AMEX,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+676,2022-08-06,676,676,,UAH,PURCHASE,Pending,AMEX,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum
+677,2022-04-30,677,677,7063.81,IDR,DEPOSIT,Failed,AMEX,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices
+678,2022-03-25,678,678,9640.99,CNY,PURCHASE,failed,MASTERCARD,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut
+679,2022-01-22,679,679,2925.11,USD,DEPOSIT,Failed,MASTERCARD,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+680,2022-03-17,680,680,8598.15,IDR,PURCHASE,pending,VISA,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque
+681,2022-04-21,681,681,6014.53,CNY,DEPOSIT,Failed,AMEX,nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu
+682,2022-08-22,682,682,,SEK,PURCHASE,completed,MASTERCARD,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac
+683,2022-07-15,683,683,6942.51,CNY,WITHDRAWAL,Completed,AMEX,tristique in tempus sit amet sem fusce consequat nulla nisl nunc
+684,2022-11-01,684,684,7965.65,IDR,DEPOSIT,pending,VISA,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce
+685,2022-12-22,685,685,4897.61,IDR,WITHDRAWAL,failed,AMEX,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula
+686,2022-08-03,686,686,4012.45,EUR,DEPOSIT,completed,AMEX,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum
+687,2022-02-27,687,687,6030.85,MNT,DEPOSIT,pending,AMEX,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis
+688,2022-05-25,688,688,4831.94,EUR,PURCHASE,failed,VISA,quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu
+689,2022-02-20,689,689,1607.62,IDR,DEPOSIT,Failed,VISA,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit
+690,2022-12-24,690,690,9305.5,CNY,WITHDRAWAL,Completed,VISA,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at
+691,2022-07-07,691,691,6400.73,CNY,DEPOSIT,Completed,VISA,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis
+692,2022-09-19,692,692,7886.08,ZAR,PURCHASE,failed,AMEX,leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet
+693,2022-09-01,693,693,3589.27,IDR,DEPOSIT,Pending,AMEX,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris
+694,2022-03-12,694,694,8831.79,ETB,DEPOSIT,Pending,VISA,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante
+695,2022-09-25,695,695,,THB,WITHDRAWAL,Pending,AMEX,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in
+696,2022-07-07,696,696,6067.94,SEK,PURCHASE,Completed,VISA,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+697,2022-12-08,697,697,8708.25,SEK,WITHDRAWAL,pending,VISA,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+698,2022-02-06,698,698,4413.19,EUR,PURCHASE,failed,MASTERCARD,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget
+699,2022-06-17,699,699,,CNY,DEPOSIT,Failed,VISA,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur
+700,2022-08-29,700,700,3232.8,JPY,PURCHASE,Completed,MASTERCARD,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in
+701,2022-11-26,701,701,1858.75,IDR,DEPOSIT,Completed,VISA,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim
+702,2022-02-12,702,702,,VEF,WITHDRAWAL,failed,AMEX,sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede
+703,2022-01-29,703,703,7916.24,PLN,DEPOSIT,failed,VISA,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci
+704,2022-06-30,704,704,2823.7,IDR,WITHDRAWAL,failed,VISA,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id
+705,2022-11-02,705,705,434.35,IDR,PURCHASE,failed,MASTERCARD,a ipsum integer a nibh in quis justo maecenas rhoncus
+706,2022-10-22,706,706,9222.62,SEK,PURCHASE,Pending,MASTERCARD,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+707,2022-07-10,707,707,432.5,CNY,WITHDRAWAL,Failed,MASTERCARD,integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum
+708,2022-07-19,708,708,9130.05,DOP,PURCHASE,failed,AMEX,justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst
+709,2022-09-24,709,709,2075.66,THB,DEPOSIT,Completed,AMEX,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id
+710,2022-10-28,710,710,,IDR,WITHDRAWAL,Pending,MASTERCARD,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin
+711,2022-04-18,711,711,8932.23,RUB,DEPOSIT,Pending,VISA,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et
+712,2022-08-11,712,712,444.35,CNY,WITHDRAWAL,failed,AMEX,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet
+713,2022-10-26,713,713,6774.14,YER,DEPOSIT,completed,VISA,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat
+714,2022-06-13,714,714,7433.16,XOF,PURCHASE,pending,MASTERCARD,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat
+715,2022-12-01,715,715,4579.4,EUR,WITHDRAWAL,pending,VISA,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu
+716,2022-11-23,716,716,8011.14,CNY,WITHDRAWAL,pending,MASTERCARD,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+717,2022-11-25,717,717,5046.03,HRK,WITHDRAWAL,Failed,VISA,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet
+718,2022-06-12,718,718,6003.7,NGN,WITHDRAWAL,Completed,MASTERCARD,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante
+719,2022-11-09,719,719,9737.9,UAH,DEPOSIT,completed,MASTERCARD,aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+720,2022-04-15,720,720,5597.9,CNY,DEPOSIT,Pending,MASTERCARD,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis
+721,2022-10-11,721,721,,COP,WITHDRAWAL,Completed,VISA,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in
+722,2022-01-06,722,722,4075.76,CNY,PURCHASE,Pending,AMEX,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat
+723,2022-07-21,723,723,5881.07,EGP,DEPOSIT,Completed,VISA,nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo
+724,2022-06-06,724,724,1505.39,CNY,PURCHASE,Pending,VISA,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst
+725,2022-03-21,725,725,2983.63,IDR,DEPOSIT,completed,MASTERCARD,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat
+726,2022-03-11,726,726,7337.07,AFN,PURCHASE,Pending,AMEX,cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+727,2022-06-08,727,727,5189.33,GTQ,DEPOSIT,Pending,AMEX,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+728,2022-10-05,728,728,8758.69,EUR,DEPOSIT,failed,MASTERCARD,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede
+729,2022-01-16,729,729,,PHP,WITHDRAWAL,pending,VISA,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut
+730,2022-11-11,730,730,558.82,PLN,WITHDRAWAL,Completed,VISA,luctus cum sociis natoque penatibus et magnis dis parturient montes
+731,2022-04-27,731,731,,ZAR,PURCHASE,completed,AMEX,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+732,2022-06-18,732,732,,CNY,PURCHASE,pending,VISA,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id
+733,2022-10-27,733,733,5707.8,EGP,WITHDRAWAL,Completed,AMEX,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque
+734,2022-06-09,734,734,8228.72,JPY,DEPOSIT,completed,AMEX,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse
+735,2022-08-04,735,735,2243.04,PHP,DEPOSIT,Completed,VISA,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus
+736,2022-08-07,736,736,2332.69,EUR,WITHDRAWAL,failed,VISA,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu
+737,2022-12-09,737,737,,CNY,WITHDRAWAL,completed,AMEX,sem sed sagittis nam congue risus semper porta volutpat quam pede
+738,2022-08-24,738,738,8794.45,UAH,WITHDRAWAL,Pending,AMEX,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+739,2022-04-16,739,739,7551.59,GTQ,PURCHASE,Pending,AMEX,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus
+740,2022-01-30,740,740,5902.68,EUR,DEPOSIT,Failed,AMEX,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+741,2022-07-25,741,741,2469.06,MYR,WITHDRAWAL,Failed,AMEX,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus
+742,2022-01-06,742,742,6155.27,CNY,WITHDRAWAL,Pending,AMEX,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra
+743,2022-05-01,743,743,1130.72,IDR,PURCHASE,completed,MASTERCARD,curabitur in libero ut massa volutpat convallis morbi odio odio
+744,2022-02-27,744,744,6056.41,USD,DEPOSIT,Pending,MASTERCARD,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non
+745,2022-04-01,745,745,,RUB,PURCHASE,Pending,MASTERCARD,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+746,2022-06-30,746,746,4644.51,CNY,PURCHASE,pending,AMEX,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus
+747,2022-04-18,747,747,650.46,MYR,PURCHASE,Failed,VISA,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus
+748,2022-03-26,748,748,7272.89,USD,PURCHASE,Failed,MASTERCARD,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit
+749,2022-10-21,749,749,7398.61,CNY,WITHDRAWAL,pending,MASTERCARD,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci
+750,2022-12-09,750,750,741.84,CNY,WITHDRAWAL,Completed,AMEX,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id
+751,2022-03-19,751,751,6432.3,PHP,WITHDRAWAL,failed,VISA,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet
+752,2022-02-27,752,752,9744.66,RUB,PURCHASE,Completed,AMEX,libero convallis eget eleifend luctus ultricies eu nibh quisque id
+753,2022-09-18,753,753,8950.56,EUR,DEPOSIT,failed,MASTERCARD,accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+754,2022-11-13,754,754,3389.89,THB,PURCHASE,Completed,AMEX,quis turpis sed ante vivamus tortor duis mattis egestas metus
+755,2022-01-06,755,755,6963.6,EUR,WITHDRAWAL,pending,VISA,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi
+756,2022-07-05,756,756,4914.33,CZK,PURCHASE,pending,VISA,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt
+757,2022-09-21,757,757,9236.19,PAB,DEPOSIT,completed,VISA,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus
+758,2022-06-29,758,758,6561.48,RUB,PURCHASE,failed,MASTERCARD,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in
+759,2022-03-30,759,759,8385.0,RSD,WITHDRAWAL,failed,AMEX,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet
+760,2022-08-23,760,760,855.71,BYR,DEPOSIT,failed,MASTERCARD,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+761,2022-11-18,761,761,5469.87,CNY,PURCHASE,Pending,AMEX,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices
+762,2022-04-16,762,762,5648.1,THB,PURCHASE,pending,MASTERCARD,fusce lacus purus aliquet at feugiat non pretium quis lectus
+763,2022-01-03,763,763,1120.57,SEK,DEPOSIT,pending,MASTERCARD,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula
+764,2022-06-01,764,764,2906.64,COP,WITHDRAWAL,Completed,VISA,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+765,2022-04-02,765,765,9360.88,CNY,WITHDRAWAL,completed,MASTERCARD,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+766,2022-05-26,766,766,682.91,KMF,PURCHASE,pending,MASTERCARD,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+767,2022-05-30,767,767,,CRC,WITHDRAWAL,Failed,MASTERCARD,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+768,2022-09-14,768,768,6700.5,PLN,PURCHASE,Pending,AMEX,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque
+769,2022-06-26,769,769,4020.48,ETB,WITHDRAWAL,Pending,AMEX,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum
+770,2022-06-05,770,770,4419.63,MXN,PURCHASE,completed,AMEX,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue
+771,2022-11-10,771,771,9000.08,EUR,PURCHASE,Pending,MASTERCARD,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis
+772,2022-01-02,772,772,6740.69,CNY,WITHDRAWAL,Failed,VISA,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis
+773,2022-03-28,773,773,2905.93,IDR,WITHDRAWAL,Failed,MASTERCARD,vel pede morbi porttitor lorem id ligula suspendisse ornare consequat
+774,2022-07-01,774,774,5703.63,EUR,DEPOSIT,Pending,MASTERCARD,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat
+775,2022-12-02,775,775,,EUR,WITHDRAWAL,pending,AMEX,primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio
+776,2022-11-17,776,776,98.57,EUR,DEPOSIT,Completed,VISA,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit
+777,2022-06-01,777,777,8663.76,IDR,PURCHASE,pending,VISA,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci
+778,2022-09-23,778,778,,PHP,WITHDRAWAL,failed,MASTERCARD,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium
+779,2022-09-05,779,779,8634.41,RUB,WITHDRAWAL,Failed,AMEX,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum
+780,2022-12-21,780,780,,IDR,DEPOSIT,completed,AMEX,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices
+781,2022-10-16,781,781,8926.86,COP,DEPOSIT,Failed,MASTERCARD,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac
+782,2022-12-25,782,782,7588.02,EUR,WITHDRAWAL,failed,VISA,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam
+783,2022-08-11,783,783,9207.91,CNY,PURCHASE,Pending,VISA,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero
+784,2022-08-06,784,784,5861.56,PLN,DEPOSIT,Failed,AMEX,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien
+785,2022-07-09,785,785,1188.52,IDR,PURCHASE,pending,AMEX,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at
+786,2022-04-15,786,786,3636.1,RUB,WITHDRAWAL,Pending,AMEX,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed
+787,2022-08-30,787,787,9072.98,PHP,WITHDRAWAL,Pending,VISA,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo
+788,2022-11-14,788,788,2768.77,EUR,DEPOSIT,failed,VISA,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse
+789,2022-12-21,789,789,3812.35,SEK,DEPOSIT,failed,AMEX,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+790,2022-06-17,790,790,648.18,PHP,WITHDRAWAL,completed,VISA,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+791,2022-02-14,791,791,1691.89,IDR,PURCHASE,Pending,MASTERCARD,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat
+792,2022-02-03,792,792,4677.07,EUR,PURCHASE,failed,MASTERCARD,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium
+793,2022-12-14,793,793,41.1,MXN,WITHDRAWAL,Pending,VISA,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam
+794,2022-06-08,794,794,3688.77,HRK,PURCHASE,Completed,MASTERCARD,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris
+795,2022-01-22,795,795,8797.62,PHP,DEPOSIT,Completed,MASTERCARD,lectus pellentesque at nulla suspendisse potenti cras in purus eu
+796,2022-06-11,796,796,8444.55,CNY,DEPOSIT,Failed,AMEX,tortor sollicitudin mi sit amet lobortis sapien sapien non mi
+797,2022-05-08,797,797,6009.1,RUB,WITHDRAWAL,pending,VISA,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+798,2022-02-16,798,798,5546.47,IDR,WITHDRAWAL,Failed,VISA,pede justo eu massa donec dapibus duis at velit eu est
+799,2022-08-18,799,799,4104.23,CNY,PURCHASE,completed,MASTERCARD,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in
+800,2022-01-21,800,800,8235.35,UYU,DEPOSIT,failed,VISA,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien
+801,2022-06-08,801,801,6959.88,CNY,WITHDRAWAL,pending,VISA,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie
+802,2022-10-13,802,802,1996.9,CNY,PURCHASE,failed,MASTERCARD,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi
+803,2022-06-29,803,803,7334.87,RUB,WITHDRAWAL,Pending,MASTERCARD,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit
+804,2022-08-06,804,804,9864.45,IDR,DEPOSIT,completed,MASTERCARD,eget massa tempor convallis nulla neque libero convallis eget eleifend
+805,2022-05-07,805,805,6559.0,AMD,PURCHASE,failed,MASTERCARD,ac consequat metus sapien ut nunc vestibulum ante ipsum primis
+806,2022-03-03,806,806,7584.09,PHP,WITHDRAWAL,failed,VISA,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a
+807,2022-05-15,807,807,4230.48,CNY,PURCHASE,Failed,AMEX,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut
+808,2022-09-09,808,808,3291.52,LTL,WITHDRAWAL,completed,AMEX,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum
+809,2022-07-24,809,809,,EUR,DEPOSIT,completed,VISA,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas
+810,2022-05-02,810,810,5807.5,EUR,PURCHASE,failed,VISA,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed
+811,2022-10-11,811,811,9016.08,PHP,DEPOSIT,Pending,AMEX,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a
+812,2022-11-30,812,812,5479.8,RUB,DEPOSIT,Pending,MASTERCARD,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in
+813,2022-04-16,813,813,,BRL,DEPOSIT,Failed,AMEX,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+814,2022-07-06,814,814,7021.17,NOK,PURCHASE,Pending,MASTERCARD,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra
+815,2022-08-20,815,815,,IDR,WITHDRAWAL,Pending,VISA,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis
+816,2022-03-17,816,816,823.24,PEN,PURCHASE,Pending,MASTERCARD,vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper
+817,2022-07-08,817,817,2351.35,IDR,DEPOSIT,Pending,VISA,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient
+818,2022-12-21,818,818,2763.02,CNY,WITHDRAWAL,Pending,MASTERCARD,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin
+819,2022-12-09,819,819,2335.82,IDR,WITHDRAWAL,completed,AMEX,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+820,2022-12-23,820,820,8593.51,RUB,WITHDRAWAL,Failed,MASTERCARD,sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci
+821,2022-03-04,821,821,,PHP,DEPOSIT,Completed,VISA,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin
+822,2022-01-17,822,822,6550.05,IDR,WITHDRAWAL,pending,VISA,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet
+823,2022-03-01,823,823,3361.93,AMD,DEPOSIT,Completed,VISA,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+824,2022-05-15,824,824,3741.39,MYR,PURCHASE,completed,AMEX,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget
+825,2022-02-16,825,825,31.5,AZN,DEPOSIT,completed,AMEX,ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+826,2022-03-10,826,826,,CZK,WITHDRAWAL,pending,VISA,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+827,2022-05-18,827,827,8958.82,PLN,PURCHASE,completed,VISA,ut mauris eget massa tempor convallis nulla neque libero convallis
+828,2022-10-16,828,828,,CNY,WITHDRAWAL,Failed,MASTERCARD,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer
+829,2022-03-07,829,829,6788.39,MAD,PURCHASE,Completed,AMEX,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque
+830,2022-05-02,830,830,,CNY,WITHDRAWAL,Pending,MASTERCARD,orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis
+831,2022-07-18,831,831,4642.34,IDR,DEPOSIT,failed,AMEX,eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla
+832,2022-11-26,832,832,,MXN,WITHDRAWAL,pending,VISA,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id
+833,2022-01-11,833,833,2180.68,CNY,PURCHASE,pending,VISA,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+834,2022-08-23,834,834,7950.11,EGP,WITHDRAWAL,Failed,VISA,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+835,2022-04-22,835,835,5723.91,CNY,PURCHASE,failed,AMEX,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae
+836,2022-07-14,836,836,,UAH,PURCHASE,completed,AMEX,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae
+837,2022-09-03,837,837,5107.4,IDR,DEPOSIT,completed,MASTERCARD,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis
+838,2022-08-14,838,838,1045.22,PLN,PURCHASE,failed,MASTERCARD,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id
+839,2022-05-23,839,839,6396.67,RUB,WITHDRAWAL,failed,MASTERCARD,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim
+840,2022-02-18,840,840,6553.54,UAH,PURCHASE,Failed,AMEX,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel
+841,2022-06-23,841,841,3936.63,NZD,DEPOSIT,Failed,MASTERCARD,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi
+842,2022-08-15,842,842,6425.49,AZN,PURCHASE,completed,AMEX,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum
+843,2022-08-10,843,843,3721.65,RUB,WITHDRAWAL,failed,MASTERCARD,massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea
+844,2022-08-10,844,844,3535.62,USD,PURCHASE,failed,MASTERCARD,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus
+845,2022-02-19,845,845,7017.0,IRR,DEPOSIT,failed,AMEX,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget
+846,2022-11-03,846,846,7765.47,EUR,PURCHASE,pending,AMEX,amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis
+847,2022-09-17,847,847,,USD,DEPOSIT,Completed,AMEX,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit
+848,2022-09-24,848,848,841.39,CNY,WITHDRAWAL,failed,VISA,eget congue eget semper rutrum nulla nunc purus phasellus in
+849,2022-02-28,849,849,9351.41,CNY,DEPOSIT,failed,MASTERCARD,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque
+850,2022-03-24,850,850,7775.54,CNY,WITHDRAWAL,Completed,MASTERCARD,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit
+851,2022-03-21,851,851,9292.03,ILS,WITHDRAWAL,Completed,VISA,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra
+852,2022-01-31,852,852,8712.11,MDL,PURCHASE,Pending,VISA,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a
+853,2022-09-07,853,853,7808.4,IDR,DEPOSIT,pending,MASTERCARD,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie
+854,2022-06-08,854,854,,PAB,WITHDRAWAL,failed,VISA,nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio
+855,2022-12-30,855,855,3350.54,IDR,WITHDRAWAL,completed,MASTERCARD,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis
+856,2022-01-16,856,856,8217.41,PHP,WITHDRAWAL,completed,VISA,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus
+857,2022-03-22,857,857,2540.91,RUB,DEPOSIT,pending,MASTERCARD,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris
+858,2022-09-10,858,858,,DOP,WITHDRAWAL,failed,MASTERCARD,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare
+859,2022-09-30,859,859,7830.39,RUB,PURCHASE,failed,AMEX,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum
+860,2022-03-11,860,860,1991.29,EUR,WITHDRAWAL,Completed,MASTERCARD,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum
+861,2022-02-01,861,861,8439.58,PYG,DEPOSIT,completed,AMEX,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero
+862,2022-09-28,862,862,2612.56,MYR,DEPOSIT,Failed,VISA,sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio
+863,2022-08-23,863,863,9966.04,CNY,PURCHASE,completed,AMEX,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus
+864,2022-05-15,864,864,4913.61,IDR,WITHDRAWAL,pending,VISA,magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque
+865,2022-02-01,865,865,5986.34,IDR,DEPOSIT,Pending,AMEX,vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet
+866,2022-12-05,866,866,6605.63,CNY,PURCHASE,Failed,MASTERCARD,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat
+867,2022-06-23,867,867,5373.8,CNY,DEPOSIT,Completed,VISA,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies
+868,2022-01-24,868,868,5450.93,EUR,WITHDRAWAL,pending,AMEX,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla
+869,2022-11-27,869,869,2542.34,CNY,WITHDRAWAL,Completed,MASTERCARD,sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis
+870,2022-09-18,870,870,5680.99,BRL,DEPOSIT,Failed,AMEX,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam
+871,2022-10-17,871,871,1307.7,IDR,PURCHASE,Pending,VISA,morbi non lectus aliquam sit amet diam in magna bibendum
+872,2022-07-19,872,872,4523.0,IDR,DEPOSIT,Completed,MASTERCARD,id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu
+873,2022-09-05,873,873,,SYP,WITHDRAWAL,Pending,VISA,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut
+874,2022-10-10,874,874,,RSD,WITHDRAWAL,Failed,AMEX,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem
+875,2022-07-14,875,875,9286.92,PHP,WITHDRAWAL,Pending,VISA,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium
+876,2022-04-19,876,876,583.48,CNY,DEPOSIT,pending,VISA,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo
+877,2022-08-23,877,877,6130.06,PEN,WITHDRAWAL,Completed,AMEX,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis
+878,2022-01-14,878,878,44.2,IDR,WITHDRAWAL,pending,MASTERCARD,nulla nunc purus phasellus in felis donec semper sapien a
+879,2022-07-23,879,879,,BGN,DEPOSIT,Completed,VISA,donec semper sapien a libero nam dui proin leo odio
+880,2022-05-22,880,880,8028.48,IRR,PURCHASE,Completed,VISA,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed
+881,2022-03-26,881,881,7992.77,IDR,WITHDRAWAL,failed,MASTERCARD,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi
+882,2022-06-03,882,882,4936.58,PHP,WITHDRAWAL,Pending,AMEX,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et
+883,2022-11-28,883,883,6982.49,VND,PURCHASE,pending,AMEX,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec
+884,2022-08-23,884,884,1841.39,IDR,DEPOSIT,Completed,VISA,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros
+885,2022-12-06,885,885,6409.56,EUR,PURCHASE,Pending,VISA,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere
+886,2022-03-28,886,886,6253.87,SZL,PURCHASE,Failed,MASTERCARD,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla
+887,2022-05-17,887,887,7062.14,BDT,WITHDRAWAL,failed,AMEX,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante
+888,2022-05-30,888,888,4991.18,BRL,WITHDRAWAL,Completed,MASTERCARD,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue
+889,2022-06-10,889,889,7770.94,RUB,WITHDRAWAL,pending,AMEX,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis
+890,2022-03-19,890,890,1244.04,PHP,WITHDRAWAL,completed,MASTERCARD,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim
+891,2022-07-24,891,891,5480.61,BRL,WITHDRAWAL,completed,MASTERCARD,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi
+892,2022-09-11,892,892,6357.91,RUB,PURCHASE,Pending,VISA,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+893,2022-01-04,893,893,1579.13,IDR,DEPOSIT,Pending,AMEX,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper
+894,2022-05-03,894,894,7785.45,EUR,WITHDRAWAL,completed,MASTERCARD,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae
+895,2022-12-16,895,895,8975.79,RUB,WITHDRAWAL,Completed,VISA,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et
+896,2022-11-16,896,896,2143.59,NGN,PURCHASE,failed,VISA,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus
+897,2022-07-04,897,897,2692.85,DKK,DEPOSIT,Pending,MASTERCARD,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec
+898,2022-04-17,898,898,8553.37,VND,PURCHASE,Completed,AMEX,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+899,2022-12-23,899,899,7806.3,IDR,WITHDRAWAL,Pending,MASTERCARD,ipsum aliquam non mauris morbi non lectus aliquam sit amet
+900,2022-12-10,900,900,7784.49,IDR,WITHDRAWAL,pending,VISA,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at
+901,2022-08-10,901,901,8145.7,EUR,PURCHASE,Failed,MASTERCARD,proin eu mi nulla ac enim in tempor turpis nec euismod
+902,2022-09-01,902,902,1566.85,CNY,DEPOSIT,pending,MASTERCARD,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan
+903,2022-11-20,903,903,5789.78,COP,PURCHASE,Completed,MASTERCARD,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper
+904,2022-07-29,904,904,582.05,KES,DEPOSIT,failed,VISA,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin
+905,2022-11-08,905,905,6290.3,EUR,WITHDRAWAL,completed,VISA,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur
+906,2022-07-12,906,906,9879.5,BRL,WITHDRAWAL,failed,AMEX,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet
+907,2022-05-21,907,907,4556.38,BRL,DEPOSIT,Pending,AMEX,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi
+908,2022-10-20,908,908,8652.88,IDR,PURCHASE,completed,MASTERCARD,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat
+909,2022-04-28,909,909,9383.64,UAH,PURCHASE,Pending,AMEX,odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis
+910,2022-03-27,910,910,9945.2,CNY,WITHDRAWAL,pending,MASTERCARD,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque
+911,2022-12-15,911,911,3219.42,ARS,WITHDRAWAL,pending,AMEX,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam
+912,2022-07-25,912,912,2691.06,BAM,WITHDRAWAL,Pending,AMEX,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis
+913,2022-01-21,913,913,8993.77,JPY,DEPOSIT,failed,AMEX,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus
+914,2022-08-14,914,914,9383.18,IDR,PURCHASE,Completed,MASTERCARD,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse
+915,2022-07-04,915,915,9656.01,CZK,WITHDRAWAL,failed,MASTERCARD,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et
+916,2022-04-30,916,916,3105.56,PEN,DEPOSIT,Pending,VISA,in sagittis dui vel nisl duis ac nibh fusce lacus
+917,2022-02-26,917,917,3501.27,CNY,PURCHASE,Failed,VISA,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc
+918,2022-12-15,918,918,4637.23,USD,WITHDRAWAL,Completed,AMEX,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+919,2022-05-09,919,919,3341.7,EUR,WITHDRAWAL,Completed,AMEX,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget
+920,2022-05-20,920,920,8158.42,IDR,PURCHASE,completed,AMEX,interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien
+921,2022-04-18,921,921,,EUR,WITHDRAWAL,pending,AMEX,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus
+922,2022-10-17,922,922,,NGN,DEPOSIT,failed,VISA,duis bibendum felis sed interdum venenatis turpis enim blandit mi
+923,2022-07-31,923,923,5969.87,ALL,DEPOSIT,failed,VISA,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit
+924,2022-02-17,924,924,938.61,IDR,PURCHASE,Pending,AMEX,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum
+925,2022-01-01,925,925,3063.85,HTG,DEPOSIT,Completed,AMEX,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam
+926,2022-11-02,926,926,7000.81,CNY,WITHDRAWAL,failed,MASTERCARD,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl
+927,2022-08-01,927,927,8850.53,CNY,PURCHASE,Pending,MASTERCARD,purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio
+928,2022-05-21,928,928,2662.05,BRL,DEPOSIT,failed,AMEX,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat
+929,2022-09-17,929,929,4099.35,EUR,PURCHASE,completed,VISA,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec
+930,2022-01-14,930,930,8742.46,CNY,PURCHASE,completed,MASTERCARD,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet
+931,2022-05-21,931,931,4399.77,BRL,PURCHASE,Completed,VISA,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat
+932,2022-10-01,932,932,9176.9,CNY,DEPOSIT,completed,AMEX,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in
+933,2022-11-17,933,933,5409.67,IDR,WITHDRAWAL,Failed,AMEX,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam
+934,2022-01-29,934,934,3397.42,RUB,DEPOSIT,Failed,MASTERCARD,morbi quis tortor id nulla ultrices aliquet maecenas leo odio
+935,2022-06-12,935,935,176.1,BRL,WITHDRAWAL,Completed,VISA,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam
+936,2022-12-17,936,936,,UAH,DEPOSIT,Failed,MASTERCARD,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor
+937,2022-05-23,937,937,8491.99,CNY,DEPOSIT,failed,AMEX,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue
+938,2022-06-26,938,938,9969.13,UAH,WITHDRAWAL,Pending,MASTERCARD,id massa id nisl venenatis lacinia aenean sit amet justo
+939,2022-11-17,939,939,7831.64,BRL,DEPOSIT,pending,AMEX,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit
+940,2022-08-22,940,940,9876.47,EUR,DEPOSIT,Pending,AMEX,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo
+941,2022-05-27,941,941,7645.36,CNY,WITHDRAWAL,pending,VISA,semper est quam pharetra magna ac consequat metus sapien ut nunc
+942,2022-11-11,942,942,,ARS,DEPOSIT,completed,AMEX,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque
+943,2022-02-18,943,943,3301.76,RUB,PURCHASE,completed,MASTERCARD,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien
+944,2022-10-06,944,944,6621.83,ARS,DEPOSIT,Pending,VISA,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla
+945,2022-04-08,945,945,3855.92,UZS,PURCHASE,failed,VISA,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed
+946,2022-06-19,946,946,3327.73,IDR,DEPOSIT,pending,VISA,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est
+947,2022-12-20,947,947,1886.87,CNY,PURCHASE,completed,MASTERCARD,aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede
+948,2022-07-09,948,948,8490.81,NGN,WITHDRAWAL,Pending,AMEX,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend
+949,2022-11-11,949,949,2121.41,USD,DEPOSIT,completed,MASTERCARD,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+950,2022-08-13,950,950,139.73,IDR,DEPOSIT,failed,AMEX,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque
+951,2022-10-18,951,951,9893.09,PHP,PURCHASE,pending,MASTERCARD,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus
+952,2022-11-15,952,952,4395.96,RUB,DEPOSIT,failed,AMEX,ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+953,2022-09-28,953,953,1418.39,EUR,WITHDRAWAL,completed,VISA,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est
+954,2022-02-06,954,954,,EUR,PURCHASE,pending,MASTERCARD,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida
+955,2022-06-15,955,955,2352.04,IDR,DEPOSIT,Completed,MASTERCARD,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida
+956,2022-06-07,956,956,1494.31,BYR,DEPOSIT,Pending,AMEX,eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus
+957,2022-11-26,957,957,1497.34,GHS,DEPOSIT,pending,VISA,phasellus in felis donec semper sapien a libero nam dui proin leo
+958,2022-10-03,958,958,3125.47,TJS,WITHDRAWAL,Failed,MASTERCARD,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac
+959,2022-11-22,959,959,9511.0,SEK,PURCHASE,Failed,AMEX,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris
+960,2022-11-06,960,960,2756.59,CNY,DEPOSIT,pending,VISA,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac
+961,2022-05-28,961,961,6043.76,BRL,DEPOSIT,Completed,MASTERCARD,ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam
+962,2022-04-16,962,962,6693.94,MXN,PURCHASE,Pending,AMEX,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien
+963,2022-03-24,963,963,9113.94,USD,WITHDRAWAL,completed,VISA,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+964,2022-01-19,964,964,6974.12,PKR,PURCHASE,completed,MASTERCARD,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien
+965,2022-02-23,965,965,6428.27,EUR,PURCHASE,completed,AMEX,porta volutpat quam pede lobortis ligula sit amet eleifend pede
+966,2022-06-29,966,966,7117.24,CNY,WITHDRAWAL,Completed,MASTERCARD,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+967,2022-12-30,967,967,827.18,CNY,DEPOSIT,Completed,MASTERCARD,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur
+968,2022-01-24,968,968,7081.46,RUB,PURCHASE,pending,VISA,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis
+969,2022-03-17,969,969,9858.07,MNT,DEPOSIT,pending,MASTERCARD,nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi
+970,2022-11-05,970,970,1899.25,EUR,WITHDRAWAL,completed,AMEX,tempus sit amet sem fusce consequat nulla nisl nunc nisl
+971,2022-08-03,971,971,909.01,NIO,WITHDRAWAL,completed,MASTERCARD,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus
+972,2022-01-18,972,972,228.23,IRR,PURCHASE,failed,AMEX,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio
+973,2022-05-25,973,973,9046.48,LTL,DEPOSIT,Failed,MASTERCARD,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis
+974,2022-10-06,974,974,888.07,CNY,DEPOSIT,failed,MASTERCARD,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in
+975,2022-11-24,975,975,2095.51,KPW,WITHDRAWAL,Completed,MASTERCARD,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus
+976,2022-07-13,976,976,7850.1,PHP,DEPOSIT,Failed,MASTERCARD,curae duis faucibus accumsan odio curabitur convallis duis consequat dui
+977,2022-05-06,977,977,6990.82,CNY,DEPOSIT,failed,MASTERCARD,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium
+978,2022-07-12,978,978,1328.92,IDR,WITHDRAWAL,failed,AMEX,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel
+979,2022-04-26,979,979,,USD,DEPOSIT,Pending,VISA,eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue
+980,2022-08-21,980,980,,SEK,WITHDRAWAL,Completed,VISA,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc
+981,2022-04-19,981,981,9477.41,ARS,WITHDRAWAL,pending,AMEX,sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu
+982,2022-10-05,982,982,2272.62,TND,PURCHASE,Pending,AMEX,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis
+983,2022-03-12,983,983,1397.55,EUR,PURCHASE,Completed,AMEX,ut at dolor quis odio consequat varius integer ac leo pellentesque
+984,2022-04-03,984,984,,CNY,WITHDRAWAL,Pending,AMEX,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in
+985,2022-07-03,985,985,4935.3,CNY,WITHDRAWAL,completed,AMEX,ac tellus semper interdum mauris ullamcorper purus sit amet nulla
+986,2022-06-13,986,986,1298.13,PHP,WITHDRAWAL,completed,AMEX,turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia
+987,2022-01-02,987,987,3194.93,PHP,DEPOSIT,pending,AMEX,duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa
+988,2022-04-01,988,988,8381.97,CNY,WITHDRAWAL,Completed,AMEX,odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt
+989,2022-04-03,989,989,3027.86,IDR,DEPOSIT,Pending,MASTERCARD,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi
+990,2022-10-18,990,990,,CNY,PURCHASE,Pending,MASTERCARD,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas
+991,2022-02-11,991,991,8146.22,MKD,DEPOSIT,failed,VISA,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in
+992,2022-12-15,992,992,4174.43,IDR,PURCHASE,failed,AMEX,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque
+993,2022-05-23,993,993,5558.16,RUB,PURCHASE,completed,AMEX,erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam
+994,2022-01-02,994,994,6999.74,ILS,WITHDRAWAL,completed,MASTERCARD,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem
+995,2022-01-10,995,995,2980.06,USD,DEPOSIT,Pending,VISA,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis
+996,2022-08-16,996,996,1005.46,PHP,DEPOSIT,Failed,VISA,proin at turpis a pede posuere nonummy integer non velit donec diam neque
+997,2022-06-04,997,997,4954.94,IDR,PURCHASE,Pending,AMEX,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero
+998,2022-02-19,998,998,2153.27,BRL,WITHDRAWAL,pending,AMEX,mauris lacinia sapien quis libero nullam sit amet turpis elementum
+999,2022-03-01,999,999,404.62,CNY,DEPOSIT,Pending,AMEX,integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum
+1000,2022-12-25,1000,1000,4876.02,PLN,PURCHASE,failed,MASTERCARD,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque
